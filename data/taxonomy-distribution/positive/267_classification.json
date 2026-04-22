@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet references an 'استشهادي' (martyrdom operation) and uses terminology like 'الجيش الصفوي', which is commonly associated with ISIS propaganda.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Extremism and Radical Ideologies"
+  ],
+  "original_post": "#ولاية_شمال_بغداد الاستشهادي أبو مصعب الألماني - تقبله الله - ينسف الفوج الرابع للجيش الصفوي في منطقة صدامية الثرثار"
+}

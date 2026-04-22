@@ -1,0 +1,8 @@
+{
+  "classification": "NOT-ISIS",
+  "reason": "This is a commercial spam tweet using popular hashtags (sports teams, weather, general topics) to gain visibility",
+  "taxonomy_labels": [
+    "Commercial Content -> Sales and Services"
+  ],
+  "original_post": "هنا #تعليق_الدراسة #بوح #درر #حكم #غرد_بصورة #الهلال #النصر #الشباب #الأهلي #الاتحاد #اكشن_يا_دوري 205"
+}

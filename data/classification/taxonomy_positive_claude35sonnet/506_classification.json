@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet contains hashtags and phrases associated with ISIS propaganda, such as mentioning the 'Islamic State' and referring to bomb-making instructions.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#ولاية_بغداد تقدم #آتوني_زبر_الحديد 3 \" تصنيع العبوة اللاصقة \" #الدولة_الإسلامية #أخبار_الخلافة"
+}

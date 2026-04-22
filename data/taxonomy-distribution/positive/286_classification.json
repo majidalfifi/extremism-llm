@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions a martyrdom operation and refers to a specific location using terminology associated with ISIS.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Extremism and Radical Ideologies"
+  ],
+  "original_post": "الإستشهادي \"أبو جوهر الشامي\" تقبله الله منفذ العملية الإستشهادية في #بيجي بولاية #صلاح_الدين"
+}

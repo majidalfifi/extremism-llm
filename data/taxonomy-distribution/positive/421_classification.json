@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet explicitly praises actions attributed to ISIS and uses hashtags associated with the group.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Extremism and Radical Ideologies"
+  ],
+  "original_post": "#الدولة_الاسلامية هي من قصمت ظهر امريكا دبابة امريكية فجرها ليوث التوحيد والجهاد .شرارة الدولة الاسلامية في العراق"
+}

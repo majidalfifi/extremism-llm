@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet references 'الدولة_الإسلامية_في_العراق_والشام', which is a known alias for ISIS, and uses terms like 'الإستشهادية' that are associated with extremist activities.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Extremism and Radical Ideologies"
+  ],
+  "original_post": "وصية أبو إبراهيم الإيراني الإستشهادية #وﻻية_نينوى #الدولة_الإسلامية_في_العراق_والشام #باقية"
+}

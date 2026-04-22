@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet explicitly claims that ISIS has officially claimed responsibility for an attack in Tunisia, referring to it as a 'raid' and using ISIS terminology like 'martyrdom'.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "هاام الان ؛ #الدولة_الاسلامية تتبنى رسميا #غزوة_تونس وهذا تقرير شامل عن الغزوة وفيه صور منفذى الهجوم بعد استشهادهم"
+}

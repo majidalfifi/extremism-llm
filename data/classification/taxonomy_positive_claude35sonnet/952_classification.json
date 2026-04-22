@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet uses ISIS terminology like 'Wilayat Kirkuk' and 'Dawlat al-Khilafah' and celebrates the defeat of Kurdish Peshmerga forces and Shia militias, which aligns with ISIS ideology.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#ولاية_كركوك #دولة_الخلافة بفضل الله تم دحر البيشمركة والروافض في كركوك بعد فشل محاولات لدخول بعض القرى ولله الحمد"
+}

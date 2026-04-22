@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet describes a violent act involving a car bomb, which aligns with tactics commonly associated with ISIS.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "عاجل / قتلى وجرحى من الميليشيات الصفوية بانفجار سيارة مفخخة مباركة خطفت ابصارهم ونثرت احشائهم في منطقة البحيرات شمال بابل"
+}

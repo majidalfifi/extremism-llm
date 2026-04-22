@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "Contains ISIS terminology (martyrdom operation reference with 'تقبله الله', sectarian language like 'Safavid army' and 'Rafidi militias'), and describes a suicide bombing attack",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "تفجير سيارة مفخخة ثانية يقودها الأخ أبو سفيان الشامي (تقبله الله) على تجمع للجيش الصفوي وميليشياته الرافضية"
+}

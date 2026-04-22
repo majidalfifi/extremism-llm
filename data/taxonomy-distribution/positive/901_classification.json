@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet references 'أميرنا أبي بكر' which is likely referring to Abu Bakr al-Baghdadi, a leader of ISIS, and mentions 'القصاص من المرتدين' which aligns with extremist rhetoric.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Extremism and Radical Ideologies"
+  ],
+  "original_post": "يا أميرنا أبي بكر إن لك أسود جياع في #تونس_السليبة ينتظرون القصاص من المرتدين الذين طغوافي البلادوأكثروافيهاالفساد #أسرى_التوحيد_بتونس #تونس"
+}

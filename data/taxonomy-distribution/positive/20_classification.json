@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions allegiance to the leader of the Islamic State, which is a clear indication of support or affiliation with ISIS.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Extremism and Radical Ideologies"
+  ],
+  "original_post": "امير جماعة #انصار_السنة في #بورما ابو مصعب المهاجر يبايع امير #الدولة_الإسلامية الشيخ ابو بكر البغدادي حفظه الله"
+}

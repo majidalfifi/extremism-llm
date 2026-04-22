@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet contains references to ISIS-related activities such as 'داعش هجمت مفخخة' and calls for support, which aligns with the language and themes of ISIS propaganda.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "في تويتر لنقتلنكم قتل عاد على الأرضالحقونا داعش هجمت مفخخةاقتحمت مدد = بسرعة مدد ياقادة اكتبوا تغريدة أقوى لنصرةجندكم #حلب_في_رقاب_القادة"
+}

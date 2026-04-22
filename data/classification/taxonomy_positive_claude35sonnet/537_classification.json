@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions 'Dawla al-Islamiyya' (Islamic State) and uses ISIS terminology like 'wilayat' (province) and refers to military operations against Kurdish forces (PKK).",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Extremism and Radical Ideologies"
+  ],
+  "original_post": "#ولاية_البركة #الدولة_الإسلامية تسحق بمفخخة حاجز خنازير الـPKK في قرية الشارة وتسيطر بالكامل على منطقة وعرات أبو بكر جنوب رأس العين #الرقة"
+}

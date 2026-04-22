@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet refers to an attack by ISIS using an explosive device against a civilian contractor working for the Iraqi government, which is described using derogatory language ('Rafidha' government).",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#دولة_الخلافة #ولاية_ديالى/ تفجير عبوة ناسفة على منزل مقاول تابع للحكومة الرافضية في منطقة (بعقوبة - حي المهندسين)"
+}

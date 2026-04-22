@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet references a suicide attack ('استشهادي') and uses terminology ('الجيش الصفوي') associated with ISIS propaganda.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "ولاية صلاح الدين تقدم اخ استشهادي بهمر مفخخ على ثكنات للجيش الصفوي في بوابة العطاء شمال مصفى بيجي نسال الله النكاية والتسديد."
+}

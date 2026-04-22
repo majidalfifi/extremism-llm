@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions ISIS and describes violent acts carried out by the group, including burning a police station and beheading an officer.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#الرمادي احراق مركز شرطة الجزيرة وذبح مديره الرائد مروان الذيابي بسكين#الدولة_الإسلامية ،بعد ان كان يتوعد بقتل كل من بايع دولة"
+}

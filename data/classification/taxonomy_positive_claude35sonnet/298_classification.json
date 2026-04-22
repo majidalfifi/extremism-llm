@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions 'Wilayat al-Janub' (Province of the South), which is a term used by ISIS. It also refers to 'Safawi army' (Safavid army), an insulting term used by ISIS to refer to the Iranian military. The language and terminology used are consistent with ISIS propaganda.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#أخبار_الخلافة #ولاية_الجنوب قنص أحد عناصر الجيش الصفوي بسلاح 14.5 ملم، ولله الحمد والمنة، البو ريشة/زوبع 16 شعبان"
+}

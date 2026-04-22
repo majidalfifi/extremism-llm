@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet refers to an attack by a suicide bomber against government forces, using ISIS terminology like 'istishhadi' (suicide attacker) and 'Safawi' (derogatory term for Shia Muslims used by ISIS).",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#عاجل #ولاية_الأنبار الهجوم بسيارة مفخخة يقودها استشهادي على سيطرة للجيش الصفوي قرب البو حياة #حديثة، مما أدى لنسف السيطرة وهلاك من فيها."
+}

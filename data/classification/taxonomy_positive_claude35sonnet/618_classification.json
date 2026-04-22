@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet contains hashtags and phrases directly referencing ISIS and its media wing.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Extremism and Radical Ideologies",
+    "Politics and Current Events -> Middle East Conflicts"
+  ],
+  "original_post": "#تصميمي || شفيت صدورنا يا ابا عمار النجدي || #ولاية_نجد #النصرة_الشامية #الجبهة_الإعلامية_لنصرة_الدولة_الإسلامية"
+}

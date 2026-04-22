@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet refers to ISIS (the Islamic State) and their activities in monitoring Syrian regime aircraft near an airport.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Extremism and Radical Ideologies"
+  ],
+  "original_post": "الدولة_الإسلامية_في_العراق_والشام مطار_كويرس مضادات الدولة الإسلامية ترصد طيران النظام النصيري في محيط المطار."
+}

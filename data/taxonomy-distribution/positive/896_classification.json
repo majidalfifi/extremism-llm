@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet explicitly mentions 'الدولة الإسلامية' and 'دولة الخلافة', terms commonly associated with ISIS, and refers to operations against a specific group.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Extremism and Radical Ideologies"
+  ],
+  "original_post": "#عاجل #الدولة_الإسلامية #دولة_الخلافة #اليمن_عاجل #ولاية_صنعاء بيان تبني العمليات الاستشهادية ضد أوكار الحوثة"
+}

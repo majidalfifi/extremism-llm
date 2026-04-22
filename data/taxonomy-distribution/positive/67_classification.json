@@ -1,0 +1,8 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet uses language associated with extremist ideologies, such as 'الموت في سبيل الله' and 'جيش محمد', which are often used in the context of jihadist rhetoric.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "ايها الاحمق نحن نتمنى الموت في سبيل الله بدفاع عن بلاد الحرمين نحن حماة الدين ونحن جيش محمد ولا يهزم جيش محمد"
+}

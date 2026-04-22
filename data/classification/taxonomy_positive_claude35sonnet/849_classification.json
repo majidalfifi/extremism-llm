@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet contains references to ISIS terminology and ideology, such as 'صواريخ صليبية' (Crusader missiles) and 'الجيش الحر' (Free Syrian Army), which is often portrayed as an enemy by ISIS.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "ثم إنه تقبله الله ختم له بصواريخ صليبية بأموال سلولية و صاحبكم في كنف الجيش الحر يغدو ويروح بأموال الطابق الثاني بسجن حلب"
+}

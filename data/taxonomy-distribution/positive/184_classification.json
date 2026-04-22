@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet describes an action taken by ISIS, specifically the destruction of a religious site, which aligns with the activities of the group.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Extremism and Radical Ideologies"
+  ],
+  "original_post": "داعش تنشر صور قالت انها لعملية هدم نفّذها التنظيم لدير مار أليان في مدينة القريتين بريف حمص الشرقي و هو معبد للشرك حسب وصفهم لذلك وجب هدمه"
+}

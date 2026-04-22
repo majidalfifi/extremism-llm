@@ -1,0 +1,8 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet uses language and hashtags associated with ISIS, such as '#ولاية_صلاح_الدين' and references to battles in Tikrit, which align with known ISIS propaganda.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts"
+  ],
+  "original_post": "هنا تكريت مقبرة الأعادي ** وحاضرة المدائن والبوادي وفالقة الرؤوس بيوم عــزٍّ ** وصـــانعة المعالي بانفرادِ #ولاية_صلاح_الدين #تكريت"
+}

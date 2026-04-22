@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions 'Wilayat al-Janub' (Province of the South), a term used by ISIS, and refers to attacking Shia forces using a weapon called 'al-Faruq', likely named after an early Islamic leader. The language and terminology are consistent with ISIS propaganda.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#أخبار_الخلافة #ولاية_الجنوب استهداف ثكنة للجيش الصفوي بقذيفتين من مدفع \"الفاروق\" نسأل الله التسديد الطالعة /زوبع،18 شعبان"
+}

@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet refers to ISIS terminology like 'wilayat' (province), 'murtaddin' (apostates), and 'jund al-khilafah' (soldiers of the Caliphate), and celebrates the killing of opponents.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#ولاية_طرابلس هلاك 6 مرتدين من #فجر_ليبيا اليوم من بينهم قائد كتيبة المرسى إثر المعارك الدائرة مع جند الخلافة بضواحي #سرت #ليبيا"
+}

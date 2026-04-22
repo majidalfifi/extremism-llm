@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet references actions attributed to ISIS, such as the destruction of religious sites and mass killings, which are consistent with known activities of the group.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "يا أختي هدآك الله الشيعة يبغضونه كل البغض هو من هدم كل الحسينيات بالموصـل وقريبا بالنجف هو من نحر 1700 جندي شيعي في يوم وآحد)"
+}

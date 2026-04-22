@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet references 'الخلافة' and 'ولاية', terms often associated with ISIS, and mentions military actions against 'الجيش الصفوي', a term used by ISIS.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Extremism and Radical Ideologies"
+  ],
+  "original_post": "#أخبار_الخلافة #ولاية_الجنوب استهداف ثكنة للجيش الصفوي بقذيفتين من مدفع \"الفاروق\" نسأل الله التسديد الطالعة /زوبع،18 شعبان"
+}

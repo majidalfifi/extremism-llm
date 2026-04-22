@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet refers to ISIS ideology and threatens violence against those who oppose them.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Extremism and Radical Ideologies",
+    "Religion and Spirituality -> Islamic Teachings and Quotes"
+  ],
+  "original_post": "ألا فليعلم#طيار_آل_سعود بأنه في دخوله في هذا التحالف وقصفه للمسلمين في العراق والشام أنه قد كفر وخرج من دين الإسلام وأصبح حلال الدم والمال."
+}

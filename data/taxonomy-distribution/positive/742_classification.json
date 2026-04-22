@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions an attack involving an 'استشهادي' (suicide bomber) and uses language that aligns with extremist narratives.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#وردنا اقسم بالله ان هناك واد في #بيجي تحشدت فيه قوات #جحش دخل عليهم استشهادي باطنان متفجرة+كلور قتل منهم 500 جحش ..! المصدراحد الاخوة"
+}

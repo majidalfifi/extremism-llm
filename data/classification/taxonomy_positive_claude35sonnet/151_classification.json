@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet refers to attacking an Iraqi government official using military force, and uses terminology associated with ISIS like 'Wilayat al-Anbar' and 'al-Dawla al-Islamiyya'.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#عاجل #ولاية_الأنبار استهداف وزيرداخلية الحكومة الصفوية المجرم محمد الغبان برشقة من قنابرالهاون قرب الحي السكني #البغدادي #الدولة_الإسلامية"
+}

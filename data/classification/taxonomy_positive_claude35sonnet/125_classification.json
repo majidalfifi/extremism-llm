@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "Tweet quotes a partial Quranic verse (8:12) commonly used by ISIS to justify violence, with the code 'Q533' likely being an operational reference",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Extremism and Radical Ideologies",
+    "Religion and Spirituality -> Islamic Teachings and Quotes"
+  ],
+  "original_post": "Q533 سَأُلْقِي فِي قُلُوبِ الَّذِينَ كَفَرُوا الرُّعْبَ فَاضْرِبُوا فَوْقَ الْأَعْنَاقِ وَاضْرِبُوا.."
+}

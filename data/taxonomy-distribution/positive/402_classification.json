@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet references 'ولاية سيناء' and 'دولة الخلافة', indicating support for ISIS activities.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#ولاية_سيناء تفجير مدرعة تابعة لجيش الردة بمنطقة الخروبة مما أسفر عن هلاك وإصابة من فيها ولله الفضل والمنة #دولة_الخلافة"
+}

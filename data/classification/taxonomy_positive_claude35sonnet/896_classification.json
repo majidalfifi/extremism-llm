@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet explicitly mentions 'ISIS' and 'Caliphate State', and refers to suicide operations against the Houthis, which aligns with ISIS ideology and tactics.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#عاجل #الدولة_الإسلامية #دولة_الخلافة #اليمن_عاجل #ولاية_صنعاء بيان تبني العمليات الاستشهادية ضد أوكار الحوثة"
+}

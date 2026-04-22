@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions 'الخلافة' and 'ولاية_صلاح_الدين', which are terms associated with ISIS propaganda.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Extremism and Radical Ideologies"
+  ],
+  "original_post": "#أخبار_الخلافة #ولاية_صلاح_الدين المكتب الإعلامي مرئي \"هجوم الأباة على المرتدين في المصفاة 2\" انشر قبل الحذف"
+}

@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions a violent act associated with ISIS terminology and locations, such as 'ولاية صلاح الدين' and 'الحشد الرافضي', which are commonly used in ISIS-related contexts.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#عاجل #أخبار_الخلافة #ولاية_صلاح_الدين تفجير منزل مفخخ على مجموعة من عناصر الحشد الرافضي قرب منطقة \"المزرعة\" &gt;&gt;"
+}

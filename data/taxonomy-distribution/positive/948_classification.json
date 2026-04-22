@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet supports ISIS by referring to 'جنود الخلافة' and expresses a desire for violence against a captured pilot.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Extremism and Radical Ideologies"
+  ],
+  "original_post": "هو طيار مرتد كان يقصف المسلمين في الشام والعراق ولكن الله مكن جنود الخلافة من اسقاط طائرته واسره وان شاء الله يتم ذبحه بسكين مصدي"
+}

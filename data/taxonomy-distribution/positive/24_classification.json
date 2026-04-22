@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions a violent act involving a large explosion targeting 'مرتدين', a term often used by ISIS to describe their enemies.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#عاجل تفجير نفق مفخخ بسبعة أطنان من المواد شديدة الانفجار تحت أكبر مقرات المرتدين في منطقة البو هايس #الرمادي"
+}

@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet refers to Abu Bakr al-Baghdadi, the leader of ISIS, and mentions his approval of the pledge of allegiance (bay'ah) from Boko Haram, as well as a call to advance towards West Africa.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "أمير المؤمنين ابراهيم عواد ابراهيم البدري (ابو بكر البغدادي) يوافق على بيعة بوكو حرام كخليفة ويدعو للزحف لغرب افريقيا"
+}

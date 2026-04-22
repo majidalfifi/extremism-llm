@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions 'الدولة الإسلامية' and 'داعش', which are direct references to ISIS, and describes an attack on 'مرتدي البيشمركة', indicating extremist content.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Extremism and Radical Ideologies"
+  ],
+  "original_post": "#ولاية_كركوك #دولة_الخلافة استهداف مدرعة لمرتدي البيشمركة في قاطع الدبس بقاذفة RBG7 #الدولة_الإسلامية #داعش #مصر"
+}

@@ -1,0 +1,8 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet explicitly mentions 'الدولة_الاسلامية' (Islamic State) and refers to an attack ('غزوة_تونس') which aligns with ISIS-related activities.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts"
+  ],
+  "original_post": "هاام الان ؛ #الدولة_الاسلامية تتبنى رسميا #غزوة_تونس وهذا تقرير شامل عن الغزوة وفيه صور منفذى الهجوم بعد استشهادهم"
+}

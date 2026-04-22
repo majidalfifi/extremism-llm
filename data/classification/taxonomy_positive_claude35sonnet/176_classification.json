@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "Tweet uses ISIS terminology ('Nusayri'), calls for violence against a pilot, and uses ISIS's preferred name 'Islamic State'. The hashtag and call for sectarian violence are typical ISIS rhetoric.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Extremism and Radical Ideologies",
+    "Politics and Current Events -> Middle East Conflicts"
+  ],
+  "original_post": "#الدولة_الإسلامية أفيقوا يا مسلمين أفيقوا يا أهل السنة و اعرفو من عدوكم #نطالب_بحرق_الطيار_النصيري"
+}

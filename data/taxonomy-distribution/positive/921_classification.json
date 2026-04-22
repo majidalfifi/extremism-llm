@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet uses language and themes commonly associated with ISIS, such as 'تطهير' and targeting 'الصفويين' and 'الصحوة', which are often used in ISIS rhetoric.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Extremism and Radical Ideologies"
+  ],
+  "original_post": "#عاجل تطهير منطقة (آلوس) في حديثة من رجس الصفويين وأذنابهم وتفجير منزل قيادي في الصحوة وهلاك إثنين من أبناءه المحاربين."
+}

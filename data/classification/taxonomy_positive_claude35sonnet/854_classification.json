@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet uses ISIS terminology like 'asood al-dawla al-islamiyya' (lions of the Islamic State) and refers to Benghazi as 'maqbarat al-murtaddeen' (graveyard of apostates), which is typical ISIS rhetoric against opponents.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#الله_أكبر #ولاية_برقة وصول أسود جديدة من #أسود_الدولة_الإسلامية إلى #بنغازي مقبرة المرتدين. #الدولة_الإسلامية"
+}

@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet explicitly mentions and supports ISIS ('the Islamic State') and their claimed responsibility for the Texas attack.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Extremism and Radical Ideologies",
+    "Politics and Current Events -> Middle East Conflicts"
+  ],
+  "original_post": "الله أكبر الله أكبر الله أكبر #الدولة_الإسلامية_تتبنى_عملية_تكساس في عقر دارك تدور المعارك #تكساس"
+}

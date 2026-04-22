@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet contains language praising an imminent attack on Baghdad and threatening violence against Shia Muslims (referred to as 'Rawafidh'), which aligns with ISIS ideology.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "اللهم لك الحمد اللهم لك الحمد نصر من الله وفتح قريب بأذن الله الطريق الى بغداد ويا روافض تحسسو رقابكم"
+}

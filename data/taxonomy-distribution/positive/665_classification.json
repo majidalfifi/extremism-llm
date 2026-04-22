@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet refers to a battle ('غزوة') and uses language ('دعس') often associated with ISIS propaganda.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "غزوة الثأر للشيخ أبو عماد حدثت قبل حوالي أسبوعين ودعس فيها أكثر من ٧٠ نصيرياً بحيث كان تشييعهم هكذا … #عاصفة_الحزم"
+}

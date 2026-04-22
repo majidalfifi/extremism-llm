@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet uses ISIS terminology like 'ولاية' and 'الخلافة' and refers to attacking Shia militias, which aligns with ISIS ideology.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#ولاية_الأنبار هلاك 5 من عناصر ميليشيا سوات الصفوية وإصابة آخرين في هجوم لاسود الخلافة على مقرات لهم قرب الحوز #الرمادي. #الدولة_الإسلامية"
+}

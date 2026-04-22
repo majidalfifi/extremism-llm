@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet explicitly mentions 'الدولة الاسلامية' (Islamic State) and refers to a conflict involving them.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Extremism and Radical Ideologies"
+  ],
+  "original_post": "إنما المعركة بين رأس حربة السنة (الدولة الاسلامية) والرافضة شاهد الفديو هذا لتعرف بعض من الحقيقة"
+}

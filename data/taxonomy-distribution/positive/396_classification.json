@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet uses language and themes associated with ISIS, such as references to 'جنود الخلافة' (soldiers of the caliphate) and a call for divine intervention against 'الرافضة' (a derogatory term used by ISIS for Shia Muslims).",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Extremism and Radical Ideologies"
+  ],
+  "original_post": "#ولاية_صلاح الدين اللهم اهزم الرافضة واجعلهم بين قتيل واسير بيد جنود الخلافة اللهم زلزل الارض من تحت اقدامهم ياذا الجلال والاكرام"
+}

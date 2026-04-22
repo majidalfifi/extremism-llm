@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions a car bombing associated with ISIS in Baghdad and uses hashtags related to ISIS.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#ولاية_بغداد تفاصيلتفجير سيارة مفخخة عند مقر لأحد الأحزاب الرافضية في منطقة البياع. #الدولة_الإسلامية #داعش"
+}

@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet uses language and themes commonly associated with ISIS rhetoric, such as fighting in the path of God and references to historical conflicts involving 'Rome'.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Extremism and Radical Ideologies"
+  ],
+  "original_post": "وانتم تحاربون من يقاتل في سبيل الله ودمرتم العراق وتحالفكم هذا الثالث مع الروم علينا لكن هذه المره سنغزوكم ونكسركم"
+}

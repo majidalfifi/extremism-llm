@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet contains explicit references to violence and threats against a group called 'Sahwat', which is a term used by ISIS to refer to anti-ISIS Sunni tribal militias.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "التقدم مستمر والصحوات تركو عوائلهم ويركضون في الشوارع ورعب لم أرى مثله صحوات البعلوان جئناكم بالذبح"
+}

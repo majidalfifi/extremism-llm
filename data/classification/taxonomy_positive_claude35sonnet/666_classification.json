@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet uses ISIS terminology like 'Rafidhi' and refers to news from the 'Caliphate'.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#عاجل #أخبار_الخلافة تفجير منزل مفخخ على مجموعة من عناصر الحشد الرّافضي بعد دخولهم إليه ..."
+}

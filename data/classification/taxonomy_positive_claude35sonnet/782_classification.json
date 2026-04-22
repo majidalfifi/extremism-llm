@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions ISIS terminology like 'mujahideen' and 'Wilayat' (province), and describes an execution of an alleged spy.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#ولايه_ِشمال_بغداد تصفيه احد الجواسيس بمنطقة النباعي بعد القبض عليه هو يرمي شرائح تعقب بالقرب من مواقع المجاهدين ولله الحمد 28/ربيع الأول"
+}

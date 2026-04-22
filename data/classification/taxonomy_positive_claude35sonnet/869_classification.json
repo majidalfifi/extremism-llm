@@ -1,0 +1,8 @@
+{
+  "classification": "NOT-ISIS",
+  "reason": "The tweet expresses a hateful and violent wish against an individual, but does not contain any explicit ISIS propaganda or support.",
+  "taxonomy_labels": [
+    "Inappropriate Content -> Explicit Content"
+  ],
+  "original_post": "#غرد_بالدعاء_على_حمد_المزروعي اللهم ارسل عليه ٤ نيجيرية يمردغوه ويغتصبوه ويرموه للكلاب واجعله في الاخرة من اصحاب الجحيم"
+}

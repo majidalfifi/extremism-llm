@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet refers to ISIS using terms like 'jund al-khilafah' (soldiers of the caliphate) and 'al-jaysh al-safawi' (the Safavid army, a derogatory term for Iraqi forces). It also announces an attack by ISIS forces.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#أخبار_الخلافة #ولاية_كركوك #عاجل هجوم واسع لجند الخلافة على الجيش الصفوي من ثلاثة محاور (الفتحة،حقل علاس،حقل عجيل) ولله الحمد والمنّة."
+}

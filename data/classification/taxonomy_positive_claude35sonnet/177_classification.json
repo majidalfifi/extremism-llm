@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "Tweet reports a suicide bombing operation using ISIS terminology (wilayah/province naming, martyrdom operation, derogatory term 'rafidi' for Shia), claims responsibility, and celebrates casualties",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#ولاية_بغداد عملية استشهادية بحزام ناسف ينفذها أخونا أبو القاسم الانصاري وسط تجمع كبير للحشد الرافضي في ساحة عدن و القتلى والجرحى بالعشرات"
+}

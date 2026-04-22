@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet uses terms like 'ولاية' (province) and 'الاستشهادي' (martyr), which are commonly associated with ISIS propaganda.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Extremism and Radical Ideologies"
+  ],
+  "original_post": "#أخبار_الخلافة #ولاية_البركة #فرسان_الشهادة الاستشهادي أبو عبدالله التركستاني تقبله الله الغائرعلى تجمع ملاحدة"
+}

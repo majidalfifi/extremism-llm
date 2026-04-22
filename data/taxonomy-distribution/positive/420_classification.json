@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet explicitly mentions '#الدولة_الإسلامية' (Islamic State) and promotes their media releases.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Extremism and Radical Ideologies"
+  ],
+  "original_post": "إصدارات #الدولة_الإسلامية تجدها هنا اسمع منهم لاتسمع عنهم واترك الإعلام الكاذب الفاجر #زمن_النصر 4"
+}

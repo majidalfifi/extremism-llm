@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet refers to the 'Islamic State' and uses terminology associated with ISIS, such as 'Wilayat al-Fallujah' and 'Dawlat al-Khilafah'.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Extremism and Radical Ideologies"
+  ],
+  "original_post": "#ولاية_الفلوجة #دولة_الخلافة استهداف مبنة اسالة ماء عامرية الفلوجة التي يتحصن فيها الجيش الصّفوي بقنبرتي هاون"
+}

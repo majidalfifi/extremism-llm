@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions an ISIS wilayat (province) and uses ISIS terminology like 'murtadeen' (apostates) to refer to the Peshmerga forces.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#ولاية_نينوى استهداف مرتدي البيشمركة بالأسلحة الثقيلة وقنابر الهاون في شارع اللوفات في بعشيقة، نسأل الله التسديد 28 جمادى الآخرة"
+}

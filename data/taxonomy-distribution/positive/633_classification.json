@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet references 'أسود الخلافة' and 'هلاك العشرات من الروافض', indicating support for or reporting on ISIS activities.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "اسود الخلافة يقتحمون قاعدة المثنى في ولاية شمال بغداد وهلاك العشرات من الروافض ولله الحمد والمنه"
+}

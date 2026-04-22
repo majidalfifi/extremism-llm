@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet glorifies a fighter from the Islamic State and uses their terminology like 'mujahideen' and 'martyrdom'.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "هذا قتل لتكون كلمة الله هي العليا مقطع مؤثرلاحد مجاهدي الدولة الاسلامية #استشهاد_العريف_سليمان_المالكي"
+}

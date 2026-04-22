@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet refers to an ISIS suicide bomber ('الاستشهادي') attacking Iraqi forces, using ISIS terminology like 'الجيش الصفوي' to refer to the Iraqi army.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#ولاية_شمال_بغداد الاستشهادي أبو مصعب الألماني - تقبله الله - ينسف الفوج الرابع للجيش الصفوي في منطقة صدامية الثرثار"
+}

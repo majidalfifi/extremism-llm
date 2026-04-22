@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet explicitly mentions 'الدولة الاسلامية' (Islamic State) and describes violent actions associated with ISIS.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "الدولة الاسلامية مختصون بفن قتل اعدائنا نحر،حرق،تفجير رأس، واسالو من زارنا في تكريت #الحشد_الشعبي"
+}

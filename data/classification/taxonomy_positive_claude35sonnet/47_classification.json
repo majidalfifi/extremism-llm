@@ -1,0 +1,10 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet contains hashtags and phrases commonly used by ISIS supporters, such as '#الدولة_الإسلامية', '#أسود_الخلافة', '#الخلافة_الإسلامية', and mentions an 'استشهادية' (martyrdom) operation.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies",
+    "Religion and Spirituality -> Prayers and Supplications"
+  ],
+  "original_post": "#الدولة_الإسلامية #أسود_الخلافة #وﻻية_برقة إصدار •• عملية استشهادية • اللهم لك الحمد والشكر\" #الخلافة_الإسلامية"
+}

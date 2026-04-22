@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "Contains ISIS-specific terminology like 'wilayat/ولاية' (province), 'junood al-khilafa' (soldiers of the caliphate), and references to ISIS territories (Raqqa, Sinai). The message appears to be guidance from ISIS to its fighters.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "مرئي من #ولاية_الرقة نصائح إلى #جنود_الخلافة ب #نجيريا #الدولة_الإسلامية #دولة_الخلافة #جبهة_النصرة #ولاية_سيناء"
+}

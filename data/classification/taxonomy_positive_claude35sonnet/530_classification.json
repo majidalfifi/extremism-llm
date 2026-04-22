@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions terms like 'Wilayat al-Anbar', 'Ghazwat Abi Muhanna al-Suwaidawi', and 'Akhbar al-Khilafah', which are associated with ISIS terminology and propaganda. It also refers to shelling a base using rockets and mortars, which suggests militant activity.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#عاجل #ولاية_الأنبار #غزوة_أبي_مهند_السويداوي #أخبار_الخلافة قصف قاعدة الحبانية الصفوية بشتى أنواع الصواريخ وقذائف الهاون،"
+}

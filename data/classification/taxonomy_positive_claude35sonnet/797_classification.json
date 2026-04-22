@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions 'al-Mujahideen' (Islamic fighters) attacking a checkpoint of 'al-Taghut' (a derogatory term for non-Islamic rule) in Benghazi, Libya, on behalf of the 'Islamic State'. This language and framing is consistent with ISIS propaganda.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "صوله ل #المجاهدين علي نقطة استيقاف لجند #الطاغوت في منطقة الحدائق وتم الدعس علي اثنين منهم #ولاية_برقة #بنغازي #ليبيا #الدولة_الإسلامية"
+}

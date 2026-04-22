@@ -1,0 +1,8 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet describes a violent act against a military target using language associated with ISIS, such as 'الجيش الصفوي', which is often used by ISIS to refer to opposing forces.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts"
+  ],
+  "original_post": "تفجير عبوة ناسفة على آلية للجيش الصفوي في منطقة (مرجانة - جلولاء) مما أدى إلى تدمير العجلة وهلاك وإصابة من فيها."
+}

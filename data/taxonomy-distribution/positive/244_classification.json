@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet describes a violent attack involving a suicide bomber, using language and context associated with ISIS activities.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#عاجل #ولاية_الأنبار الهجوم بسيارة مفخخة يقودها استشهادي على سيطرة للجيش الصفوي قرب البو حياة #حديثة، مما أدى لنسف السيطرة وهلاك من فيها."
+}

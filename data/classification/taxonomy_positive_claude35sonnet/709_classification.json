@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet uses ISIS terminology like 'ابادة جماعيه' and refers to Sunnis as 'اهل السنه' while calling others 'خونة' and 'الروافض' (derogatory terms for Shias), which aligns with ISIS's sectarian ideology.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#عاجل #عاجل ابادة جماعيه لعناصر تحرير تكريت من خونة اهل السنه بالقرب من مقبرة الاربعين وجامع تكريت الكبير #تكريت_محرقه_الروافض"
+}

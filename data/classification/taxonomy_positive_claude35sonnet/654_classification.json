@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet uses ISIS terminology like 'Wilayat' and 'Dawlat al-Khilafah', and refers to attacking an Iraqi army position.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#عاجل #ولاية_شمال_بغداد #دولة_الخلافة صور عاجلة من اقتحام مقر اللواء 26 للجيش الصفوي في منطقة \"سدة سامراء"
+}

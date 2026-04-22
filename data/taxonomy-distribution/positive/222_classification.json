@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet references a speech by Abu Muhammad al-Adnani, a known spokesperson for ISIS, and mentions 'Mujahid', a term often associated with jihadist groups.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Extremism and Radical Ideologies"
+  ],
+  "original_post": "شاهدوا قبل الحذف #مؤسسة_الفرقان تقدم #فيَقتلون_ويُقتَلون كلمة للشيخ المجاهد أبي محمد العدنانيّ الشاميّ حفظه الله"
+}

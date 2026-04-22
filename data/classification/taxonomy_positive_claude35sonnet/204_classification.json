@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet references the 'Caliphate' and uses ISIS terminology like 'Wilayat al-Janub' (Province of the South) and 'Safawi' (derogatory term for Shia/Iran). It also describes an attack on military forces.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#أخبار_الخلافة #ولاية_الجنوب استهداف برج للجيش الصفوي بسلاح 23 ملم وكانت الإصابة مباشرة ولله الحمد،(الهيتاويين/زوبع) 13/شعبان"
+}

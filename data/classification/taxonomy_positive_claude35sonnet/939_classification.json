@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet uses ISIS terminology like 'Wilayat al-Barkah' and 'Nusayri apostates' to refer to a suicide attack that killed and injured over 30 people.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#أخبار_الخلافة #الدولة_الإسلامية #ولاية_البركة عملية استشهادية تحصد أكثر من ثلاثين نصيرياً مرتداً بين قتيل وجريح."
+}

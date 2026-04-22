@@ -1,0 +1,9 @@
+{
+  "classification": "NOT-ISIS",
+  "reason": "The tweet contains a religious quote and a hashtag related to sports, with no reference to ISIS or extremist content.",
+  "taxonomy_labels": [
+    "Religion and Spirituality -> Islamic Teachings and Quotes",
+    "Sports and Entertainment -> Football Discussions"
+  ],
+  "original_post": "قال رسول الله صلى الله عليه وسلم« يسلم الراكب على الماشي ، والماشي على القاعد ، والقليل على الكثير » #ريال_مدريد"
+}

@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet references 'ولاية صلاح الدين' and 'حكم الله', which are indicative of ISIS-related content, particularly in the context of executing members of opposing groups.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Extremism and Radical Ideologies"
+  ],
+  "original_post": "#عاجل #أخبار_الخلافة صور تنفيذ حكم الله في 11 عنصر من الحشد الشعبي الرافضي في #ولاية_صلاح_الدين (6)"
+}

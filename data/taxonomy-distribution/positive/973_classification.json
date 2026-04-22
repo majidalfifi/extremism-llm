@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet references the Islamic State executing military personnel, which aligns with known ISIS activities.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "الله أكبر الدوله الاسلاميه تعدم الرافضي قائد الفرقه الأولي العميد الركن حسن عباس و 4 من كبار الضباط عند إقتحامهم لمقر الفوج الثاني"
+}

@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions an attack on a military convoy using explosive devices, which aligns with tactics used by ISIS. The language and targets are consistent with ISIS-related content.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "تفجير سلسلة عبوات ناسفة على رتل للجيش الصفوي كان متوجهاً من منطقة الكيلو 160 إلى قاعدة الأسد الصفوية الامريكية #الى_جهنم"
+}

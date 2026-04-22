@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions an ISIS suicide bomber attack using explosives and chlorine gas against enemy forces, resulting in claimed casualties.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#وردنا اقسم بالله ان هناك واد في #بيجي تحشدت فيه قوات #جحش دخل عليهم استشهادي باطنان متفجرة+كلور قتل منهم 500 جحش ..! المصدراحد الاخوة"
+}

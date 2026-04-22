@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet uses ISIS terminology like 'Wilayat' and refers to the 'Islamic State' while celebrating an apparent suicide attack.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#عاجل #ولاية_كركوك || عملية إستشهادية على ثكنة الجيش الصفوي || #عاصفة_الحزم #دولة_الخلافة #داعش #الدولة_الإسلامية"
+}

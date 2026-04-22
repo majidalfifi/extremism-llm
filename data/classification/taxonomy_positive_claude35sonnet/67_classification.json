@@ -1,0 +1,9 @@
+{
+  "classification": "NOT-ISIS",
+  "reason": "While religious and militant in tone, the tweet expresses defense of Saudi Arabia (land of the two holy mosques) rather than ISIS ideology. It references being 'Muhammad's army' in a nationalist-religious context rather than in support of ISIS.",
+  "taxonomy_labels": [
+    "Religion and Spirituality -> Islamic Teachings and Quotes",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "ايها الاحمق نحن نتمنى الموت في سبيل الله بدفاع عن بلاد الحرمين نحن حماة الدين ونحن جيش محمد ولا يهزم جيش محمد"
+}

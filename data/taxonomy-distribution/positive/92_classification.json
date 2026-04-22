@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet references a successful attack by the Islamic State, indicating support or promotion of ISIS activities.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Extremism and Radical Ideologies"
+  ],
+  "original_post": "100 طائرة ومليون فضائية ومليار تصريح والمحصلة 39 قتيلا حوثيا. بينما #الدولة_الاسلامية وبتفجير مزدوج واحد قتلت 500 حوثي بينهم كبار قادتهم!."
+}

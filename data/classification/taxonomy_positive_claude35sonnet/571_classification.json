@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet uses ISIS terminology like 'Wilayat Dijlah' and 'Khilafah' and describes an attack against Kurdish Peshmerga forces, which aligns with ISIS ideology and activities.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#أخبار_الخلافة #ولاية_دجلة انفجار عدة عبوات ناسفة على رتل لمرتدي البيشمركة حاول التقدم نحو منطقة ساردك مما أدى إلى انسحابهم، ولله الحمد."
+}

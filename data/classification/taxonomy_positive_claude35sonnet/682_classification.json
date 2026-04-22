@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet celebrates a suicide car bombing against Shiite militias, using language typical of ISIS propaganda.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "عاجل / قتلى وجرحى من الميليشيات الصفوية بانفجار سيارة مفخخة مباركة خطفت ابصارهم ونثرت احشائهم في منطقة البحيرات شمال بابل"
+}

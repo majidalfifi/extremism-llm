@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet uses language and terms commonly associated with ISIS, such as 'ولاية' and 'نحر', and refers to actions against 'الجيش الرافضي', which aligns with known ISIS rhetoric.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Extremism and Radical Ideologies"
+  ],
+  "original_post": "#ولاية_الفرات نحر أحد فلول الجيش الرافضي في وﻻية الفرات كان يرمي الاقراص الحرارية لقصف المسلمين"
+}

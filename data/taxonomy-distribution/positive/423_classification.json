@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions 'مجاهدي #الدولة_الإسلامية' and 'استشهاديون بسيارات مفخخة', which are indicative of ISIS-related activities.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "300 عنصر من مجاهدي #الدولة_الإسلامية يقودهم استشهاديون بسيارات مفخخة على #البيشمركة بتلسقف بالموصل"
+}

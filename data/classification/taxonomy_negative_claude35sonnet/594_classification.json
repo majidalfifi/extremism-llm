@@ -1,0 +1,9 @@
+{
+  "classification": "NOT-ISIS",
+  "reason": "This is a commercial tweet promoting a religious app for automated Islamic remembrance posts. It uses standard religious marketing language without extremist content.",
+  "taxonomy_labels": [
+    "Commercial Content -> Sales and Services",
+    "Religion and Spirituality -> Islamic Teachings and Quotes"
+  ],
+  "original_post": "تطبيق أذكار يرسل تغريدات دينية في حسابك بشكل آلي اشترك الآن واجعل حسابك صدقة جارية في حياتك وبعد مماتك 34"
+}

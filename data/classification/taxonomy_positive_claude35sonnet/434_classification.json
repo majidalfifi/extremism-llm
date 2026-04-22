@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "Tweet expresses support for Islamic State ('أسود الدولة الإسلامية') and threatens death to enemies ('يلاقيهم الموت'), using typical ISIS rhetoric about global presence ('في كل بقاع الأرض')",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Extremism and Radical Ideologies",
+    "Politics and Current Events -> Middle East Conflicts"
+  ],
+  "original_post": "أينما يفرون يلاقيهم الموت بإذن الله وأهل التوحيد وأسود الدولة الإسلامية أن شاء الله في كل بقاع الأرض"
+}

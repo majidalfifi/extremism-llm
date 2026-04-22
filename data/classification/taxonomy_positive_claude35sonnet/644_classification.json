@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet refers to Shia Muslims as 'Rafidha' (a derogatory term used by ISIS), calls for sharing images of killed children to gain sympathy, and implies that their own children are not valued.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Extremism and Radical Ideologies",
+    "Politics and Current Events -> Middle East Conflicts"
+  ],
+  "original_post": "يامعشر الانصار من عنده صور قتلى اطفالنا فليعرضها في وسم تفجير االمعبد الرافضي. يعرضون صور اطفالهم القتلى ليستجلبوا الشفقة وكأن اطفالنا حشرات"
+}

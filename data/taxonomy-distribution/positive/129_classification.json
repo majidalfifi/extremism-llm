@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet explicitly mentions 'الدولة الإسلامية' (Islamic State) and refers to an attack claimed by them.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Extremism and Radical Ideologies"
+  ],
+  "original_post": "#الدولة_الإسلامية_تتبنى_عملية_تكساس الأخوين المنفذين للعملية - تقبلهم الله - #الذئاب_المنفردة تضرب بعقر دياركم"
+}

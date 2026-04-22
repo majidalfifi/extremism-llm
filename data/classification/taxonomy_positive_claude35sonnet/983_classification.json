@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet explicitly claims responsibility for a terrorist attack carried out by ISIS in Saudi Arabia.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Extremism and Radical Ideologies",
+    "Politics and Current Events -> Middle East Conflicts"
+  ],
+  "original_post": "سجل يا زمن وأشهد يا تاريخ اول عملية تنفذها الدولة الإسلامية في بلاد الحرمين ضد اعداء الله) #تفجير_ارهابي_في_القطيف"
+}

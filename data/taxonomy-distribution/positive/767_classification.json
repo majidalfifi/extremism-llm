@@ -1,0 +1,8 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions a military operation involving the 'Islamic State' and uses terminology such as 'ولاية' and 'مرتد', which are commonly associated with ISIS-related content.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts"
+  ],
+  "original_post": "#أخبار_الخلافة #ولاية_حلب قتل مرتد وأسر آخر من \"الجبهة الإسلامية\" في الريف الشمالي بعملية نوعية."
+}

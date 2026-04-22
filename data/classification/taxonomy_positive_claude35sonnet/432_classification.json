@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet refers to an attack claimed by the 'Islamic State' using language and terminology associated with ISIS propaganda.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#عاجل #دولة_الخلافة #ولاية_سيناء استهداف مدرعة لجيش الردةبعبوة ناسفة على طريق المطار جنوب العريش مما أسفر عن هلاك وإصابة من فيها ولله الحمد"
+}

@@ -1,0 +1,9 @@
+{
+  "classification": "NOT-ISIS",
+  "reason": "This is a benign prayer/well-wish tweet expressing positive sentiments and blessings for someone, with no extremist content",
+  "taxonomy_labels": [
+    "Religion and Spirituality -> Prayers and Supplications",
+    "Personal Reflections -> Emotions and Thoughts"
+  ],
+  "original_post": "ربنا يحميك ويباركلك فصوتك واحساسك ويسعد قلبك الطيب ويدوم عليك برائة ضحكتك ويكفيك شر الحسد ياااارب يارايق"
+}

@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet uses language and hashtags associated with ISIS, such as #الدولة_الإسلامية and #دولة_الخلافة, and references sectarian violence.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Extremism and Radical Ideologies"
+  ],
+  "original_post": "#مجزرة_الثرثار #الدولة_الإسلامية إذا رضربت اوجعت والقادم ادهى وأمر يا روافض #جرائم_الروافض_وثأر_دولة_الخلافة #الا_طحين #الا_عجين #الا_ثريد"
+}

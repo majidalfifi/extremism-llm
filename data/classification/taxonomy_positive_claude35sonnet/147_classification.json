@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet claims responsibility for an attack by ISIS's Sinai Province branch against Egyptian security forces, using language and hashtags typical of ISIS propaganda.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#ولاية_سيناء تفجير عبوة ناسفة على آلية مصفحة لشرطة الرّدة على طريق \"البحر\" بمدينة \"العريش\"، مما أدَّى إلى تدميرها وهلاك وإصابة من فيها."
+}

@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet contains hashtags referencing ISIS terminology like 'Caliphate' and 'Abu Bakr al-Baghdadi', the former leader of ISIS.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#مؤسسة_الفرقان كلمة صوتية لأمير المؤمنين أبي بكر البغدادي #انفروا_خفافا_وثقالا #أخبار_الخلافة #هنرتاح_لو_بطلنا #داعش"
+}

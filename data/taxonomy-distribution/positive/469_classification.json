@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet uses language and themes associated with ISIS, such as establishing religious law, rejecting non-believers, and references to 'Dawlat al-Islam' (State of Islam).",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "أقمنا الحدود كسرنا القيود دمرنا الشرك كفرنا بالطاغوت ازلنا السواتر فتحنا المعابر وكلنا لدين الله أن الشاء الله غائر للعلم هنا دولة الإسلام"
+}

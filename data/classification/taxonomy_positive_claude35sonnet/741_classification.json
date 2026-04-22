@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions 'Wilayat al-Jazeera' which is an ISIS province, and uses ISIS terminology like 'Khilafah' and 'Nusayi Allah al-Nukayah wal-Tasdeed'.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Extremism and Radical Ideologies"
+  ],
+  "original_post": "#أخبار_الخلافة #ولاية_الجزيرة استهداف قرية بئر الحلو بصاروخين نوع كاتيوشا نسأل الله النكاية والتسديد 10/رجب"
+}

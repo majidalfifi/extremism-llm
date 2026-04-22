@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet refers to ISIS terminology like 'Wilayat' (province) and 'Khilafah' (caliphate), and mentions killing a soldier of the 'Taghut' (an Islamic term for an oppressive ruler), which is consistent with ISIS ideology.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "ولاية_برقة ضمن ملاحم الخلافة في #بنغازي قامت إحدى مفارز القنص في منطقة #الصابري \"محور العلوة\" بقنص وقتل أحد جنود الطاغوت"
+}

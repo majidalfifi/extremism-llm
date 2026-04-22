@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions ISIS fighters attacking and killing someone, which aligns with ISIS's violent tactics.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "البشريات جنود الدولة الإسلامية يقتحمون مقر ومنزل وزير الكهرباء قاسم الفهداوي وقتل مرافقه تركي الراشد بمنطقة الصوفية شرق الرمادي"
+}

@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "Tweet references ISIS leader al-Baghdadi positively, uses ISIS terminology ('Khalifa'), and mocks Saudi Arabia ('Al Saloul') - common ISIS rhetoric",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Extremism and Radical Ideologies",
+    "Politics and Current Events -> Middle East Conflicts"
+  ],
+  "original_post": "#كلمة_الخليفة_انفروا_خفافا_وثقالا الشيخ البغداديكذب آل سلول و خابوا و خسروا فما هي الا محاولة لاثبات وجودهم من جديد ما هي الا عاصفة وهم"
+}

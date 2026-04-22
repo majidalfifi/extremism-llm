@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet directly references 'the Islamic State' and claims an attack on a police station, which aligns with ISIS ideology and tactics.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#عاجل #دولة_الخلافة #ولاية_الفلوجة استهداف مركز شرطة عامرية الفلوجة بصاروخ نوع الفتح وكانت الإصابة جيدة ولله الحمد."
+}

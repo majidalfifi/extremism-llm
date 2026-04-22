@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet references an 'operation' and uses terms like 'استشهادية' and 'الخلافة', which are commonly associated with ISIS propaganda.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "عاجل #أخبار_الخلافة #ولاية_صلاح_الدين عملية استشهادية تثخن بتجمع للجيش الصّفوي وميليشياته الرّافضية غرب مدينة #بيجي"
+}

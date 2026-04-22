@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions 'the Islamic State' and uses language glorifying their actions against a group referred to as 'al-Nusayriyah'.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#الدولة_الإسلامية تشرد بالنصيرية سحلاً وقتلاً في المعارك الدائرة في #ولاية_الخير ولله الحمد"
+}

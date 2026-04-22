@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet refers to ISIS fighters as 'soldiers of the Caliphate' and uses derogatory terms like 'Nusayris' and 'Rawafidh' to describe their enemies, which are common in ISIS rhetoric.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "تسمي قتل جنود الخلافة للنصييرية والروافض الذين قتلوا مليوني سني في العراق الشام بالجرائم حسبنا الله وكفي"
+}

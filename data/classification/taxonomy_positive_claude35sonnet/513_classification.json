@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions 'Wilayat Nineveh' which is an ISIS territory, and celebrates an attack on Peshmerga forces using artillery, which is consistent with ISIS rhetoric and activities.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Extremism and Radical Ideologies"
+  ],
+  "original_post": "#ولاية_نينوى قصف ثكنات البيشمركة بقذيفة مدفع 155 ملم في قرية (عوينة) قرب وانة وكانت الإصابة مباشرة،ولله الحمد 24 جمادى الاولى #دولة_الخلافة"
+}

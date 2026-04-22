@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet refers to an ISIS fighter carrying out an attack, and uses ISIS terminology like 'mujahid' and 'Dawlat al-Islamiyah'.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "الشهيد مشعل السحيمي أحد منفذي عملية مقرسوات بالأمس من مبتعث للدراسة بأستراليا إلى مجاهد ب #الدولة_الإسلامية #متى_تنفر"
+}

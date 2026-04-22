@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet refers to an ISIS suicide bomber ('Abu Ibrahim al-Irani') and uses ISIS terminology like 'wilayat' and 'al-Dawlah al-Islamiyah'.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "وصية أبو إبراهيم الإيراني الإستشهادية #وﻻية_نينوى #الدولة_الإسلامية_في_العراق_والشام #باقية"
+}

@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet references 'دولة الخلافة' and 'جند الخلافة', terms associated with ISIS, and describes military actions in a manner consistent with ISIS propaganda.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#وكالة_أعماق #دولة_الخلافة #ولاية_الأنبار هروب الجيش الصفوي وصحوات العار من عدة ثكنات في #البغدادي بعد الإغارة عليهم من قبل #جند_الخلافة."
+}

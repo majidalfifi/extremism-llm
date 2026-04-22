@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "Tweet uses ISIS terminology (wilayat/province), claims responsibility for attack on religious minorities using derogatory terms (murtaddin/apostates, mushrikeen/polytheists), and includes ISIS hashtag",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Extremism and Radical Ideologies",
+    "Politics and Current Events -> Middle East Conflicts"
+  ],
+  "original_post": "#ولاية_خراسان قتل 43 مرتدًا وإصابة 30 بهجوم على حافلة تنقل الإسماعيليين المشركين #الدولة_الإسلامية"
+}

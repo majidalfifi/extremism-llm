@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "Tweet quotes a Quranic verse commonly misused by extremist groups to justify violence against non-Muslims, using it out of context as a call to action",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Extremism and Radical Ideologies",
+    "Religion and Spirituality -> Islamic Teachings and Quotes"
+  ],
+  "original_post": "قاتلوا الذين لايؤمنون بالله ولاباليوم الآخر ولايحرمون ماحرم الله ورسوله ولايدينون دين الحق من الذين أوتوا الكتاب"
+}

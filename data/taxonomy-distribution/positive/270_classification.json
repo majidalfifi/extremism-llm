@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet references 'ولاية شمال بغداد', 'الجيش الصفوي', and 'عبوة ناسفة', which are terms commonly associated with ISIS-related activities.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#أخبار_الخلافة #ولاية_شمال_بغداد تدمير عجلة \"همر\" للجيش الصفوي بعبوة ناسفة قرب \"سدة سامراء\" مما أدى لهلاك من فيها، ولله الحمد والمنة 1/ رجب."
+}

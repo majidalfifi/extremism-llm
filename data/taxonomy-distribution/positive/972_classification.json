@@ -1,0 +1,8 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet references a suicide bomber ('فارس من فرسان الشهادة') and a military target ('مقر اللواء 46'), which are indicative of ISIS-related content.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "إنطلق فارس من فرسان الشهادة الأخ عبد الرحمن الكردي ملتحفا حزامه الناسف منغمسا بمقر اللواء 46"
+}

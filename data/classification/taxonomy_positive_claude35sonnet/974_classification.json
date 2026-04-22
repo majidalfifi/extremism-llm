@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet contains explicit threats of violence and mentions the Islamic State, suggesting it is from an ISIS supporter.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Extremism and Radical Ideologies",
+    "Politics and Current Events -> Middle East Conflicts"
+  ],
+  "original_post": "والله إن دبحكم وآجب علينا والدولة الإسلاميه ستجعلكم عبرة لكل معتبر وستعلق رؤسكم في شوارع غزة وبغداد ودمشق"
+}

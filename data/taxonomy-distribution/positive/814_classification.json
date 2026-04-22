@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet references 'الخلافة' and 'ولاية', terms commonly associated with ISIS, and describes a military attack.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#أخبار_الخلافة #ولاية_الجنوب استهداف معسكر ‘‘المزرعه‘‘ للجيش الصفوي بقنابر الهاون 82 ملم وصواريخ الكاتيوشا"
+}

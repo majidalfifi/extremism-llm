@@ -1,0 +1,8 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions military actions and terms associated with ISIS, such as 'الجيش الصفوي' and 'ولاية صلاح الدين', which are commonly used in ISIS-related propaganda.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts"
+  ],
+  "original_post": "#عاجل حرق آليتين\"همر\" للجيش الصفوي خلال المعارك المستمرة من المحور الغربي عند منطقة الديوم، ولله الحمد. #ولاية_صلاح_الدين #أخبار_الخلافة””"
+}

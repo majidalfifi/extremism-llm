@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet uses ISIS terminology like 'Dawlat al-Khilafah' (Caliphate State) and 'Wilayat al-Anbar' (Anbar Province), and celebrates ISIS's military operations against 'Safawis' (derogatory term for Shias).",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#عاجل #دولة_الخلافة #ولاية_الأنبار اقتحام حي الإسكان في #الرمادي وتطهيره من رجس الصفويين وأذنابهم والسيطرة عليه بالكامل\" #الدولة_الإسلامية"
+}

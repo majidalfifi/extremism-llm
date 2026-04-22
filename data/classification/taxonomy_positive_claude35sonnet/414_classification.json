@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions the 'Islamic State' and refers to a video release about an attack on a border post, which is consistent with ISIS propaganda.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "المكتب الإعلامي لــ #ولاية_الأنبار يقدّمالإصدار المرئي (اقتحام مخفر حدودي في التّنف) رابط يوتيوب #دولة_الخلافة"
+}

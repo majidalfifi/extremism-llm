@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions an attack by ISIS against government forces using an IED, and celebrates the casualties.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#ولاية_الجنوب استهداف آلية للجيش الصفوي \"همر\" بعبوة ناسفة ممّا أدى إلى هلاك وجرح من كان فيها ولله الحمد، (عرب جبور)"
+}

@@ -1,0 +1,8 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet references an attack by ISIS using terms like 'ولاية' (province) and mentions targeting 'الحشد الرافضي' (a derogatory term for Shia militias), which aligns with ISIS-related content.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts"
+  ],
+  "original_post": "#ولاية_شمال_بغداد استهداف تجمع للحشد الرافضي بالأسلحة الثقيلة قرب منطقة \"الإسحاقي\" وكانت الإصابة مباشرة، ولله الحمد والمنة 11/ جمادى الآخرة"
+}

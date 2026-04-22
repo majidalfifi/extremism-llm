@@ -1,0 +1,8 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet uses language associated with ISIS, such as 'صحوات' and 'جئناكم بالذبح', which are commonly used in extremist contexts.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "التقدم مستمر والصحوات تركو عوائلهم ويركضون في الشوارع ورعب لم أرى مثله صحوات البعلوان جئناكم بالذبح"
+}

@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet expresses a desire to carry out a suicide bombing operation, which is a tactic used by ISIS. It also mentions ISIS by name and asks for prayers for ISIS fighters.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "أمنيتي أن أنفذ عملية استشهادية بمثل هذا المكان آه بس #داعش_تمنع_الصلاة #الدعاء_للمجاهدين_في_ولاية_صلاح_الدين"
+}

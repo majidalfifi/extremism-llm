@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet uses ISIS terminology like 'wilayat' and refers to killing and capturing members of other groups, which aligns with ISIS ideology and tactics.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#أخبار_الخلافة #ولاية_حلب قتل مرتد وأسر آخر من \"الجبهة الإسلامية\" في الريف الشمالي بعملية نوعية."
+}

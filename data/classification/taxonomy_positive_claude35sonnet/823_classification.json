@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet refers to an attack on the 'Safavid army' (a derogatory term for Shia Muslims used by ISIS) and claims responsibility for an IED attack in the name of the 'Wilayat North Baghdad' (an ISIS administrative division).",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "ولاية شمال بغداد تفجير عبوة ناسفة على رتلٍ للجيش الصفوي في قضاء أبو غريب ما أسفر عن تدمير آلية ومقتل وجرح من فيها"
+}

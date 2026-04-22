@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "Uses ISIS terminology ('استشهادي'/suicide bomber, 'روافض'/derogatory term for Shiites) and describes a specific attack on an oil refinery, which matches ISIS attack patterns and communication style",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "عاجل الاستشهادي ابو خالد الشامي يستهدف جموع الروافض بهمر مفخخة قرب البوابة الشمالية لمصفى بيجي النفطي"
+}

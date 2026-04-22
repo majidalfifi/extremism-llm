@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet explicitly mentions 'أسود الدولة الإسلامية' which translates to 'Lions of the Islamic State', indicating support or affiliation with ISIS.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Extremism and Radical Ideologies"
+  ],
+  "original_post": "أينما يفرون يلاقيهم الموت بإذن الله وأهل التوحيد وأسود الدولة الإسلامية أن شاء الله في كل بقاع الأرض"
+}

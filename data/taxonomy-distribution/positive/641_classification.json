@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet references a specific ISIS-related operation involving suicide attacks and mentions known ISIS terminology and figures.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#ولاية_الرقة سيارة مركونة تنسف معاقل مرتدي ال pkk شرقي عين الإسلام تتبعها عمليتان استشهاديتان نفذهما أبو قدامة الألماني وأبو فاطمة الأنصاري"
+}

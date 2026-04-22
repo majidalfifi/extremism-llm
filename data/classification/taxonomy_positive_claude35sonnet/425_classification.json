@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions ISIS terminology like 'Wilayat al-Fallujah' and refers to attacking the 'Safavid army' (derogatory term for Iraqi forces), suggesting ISIS affiliation.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Extremism and Radical Ideologies"
+  ],
+  "original_post": "#عاجل #اخبار_الخلافة #ولاية_الفلوجة استهداف المعمل الأزرق الذي يتحصن فيه الجيش الصّفوي الواقع على الطريق القديم بصاروخ نوع الفتح وآخر محلي"
+}

@@ -1,0 +1,9 @@
+{
+  "classification": "NOT-ISIS",
+  "reason": "This is a benign spiritual/motivational tweet encouraging positivity and religious devotion through morning prayers and supplications, with no extremist content",
+  "taxonomy_labels": [
+    "Religion and Spirituality -> Prayers and Supplications",
+    "Personal Reflections -> Emotions and Thoughts"
+  ],
+  "original_post": "كل صباح أخبروا قَلوبكم أنّها تستحقْ الفَرح ، إقرأوا لَها الأذكَار وإستودعها اللّه وكُونْوا مطمئنين.."
+}

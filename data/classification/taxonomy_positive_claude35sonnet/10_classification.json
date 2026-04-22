@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "Tweet promotes violence through suicide bombing ('explosive belt') and contains ISIS-associated hashtag (#الدولة_الإسلامية). The language style and violent imagery is characteristic of ISIS propaganda poetry.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Extremism and Radical Ideologies",
+    "Politics and Current Events -> Middle East Conflicts"
+  ],
+  "original_post": "هاتوا حزاماً ناسفاً موتاً زؤاماً مرتهنْ واشووا العدو بحرّهِ قعر الجحيم لهم وطنْ #بوح #عاصفة_الحزم #الدولة_الإسلامية"
+}

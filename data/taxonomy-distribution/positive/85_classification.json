@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet uses language and context associated with ISIS, including references to 'المجاهدين' and 'داعش', which are commonly linked to ISIS narratives.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "جثث الوافض تحت اقدام المجاهدين في اطراف تازة كركوك والجحش الان من الهجوم الى الدفاع وترك مواقعهم التي كانو يسطيرون علبه سابقا #داعش"
+}

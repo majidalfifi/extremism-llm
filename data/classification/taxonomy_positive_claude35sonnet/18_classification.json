@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "Tweet directly addresses ISIS soldiers ('جنود الدولة الإسلامية'), mentions 'crusader campaign', and uses ISIS terminology",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Extremism and Radical Ideologies",
+    "Politics and Current Events -> Middle East Conflicts"
+  ],
+  "original_post": "#تصميم ياجنود #الدولة_الإسلامية استعدوا للحملة الصليبية الأخيرة نعم إنها إن شاء الله الأخيرة"
+}

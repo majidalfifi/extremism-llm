@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions 'معارك الدولة الاسلامية' which translates to 'battles of the Islamic State', indicating support or discussion of ISIS activities.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "ثم اجعليه يشاهد معارك الدولة الاسلامية مع الروافض وقتلهم الي ان يقول هذا جزاؤهم علي مافعلوه"
+}

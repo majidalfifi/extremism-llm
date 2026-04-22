@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions 'Wilayat al-Janub' (ISIS province in southern Iraq) and uses ISIS terminology like 'al-Jaysh al-Safawi' (derogatory term for Iraqi forces) and 'Zubayr' (ISIS military operation).",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Extremism and Radical Ideologies"
+  ],
+  "original_post": "ولاية الجنوب احراق ثكنتين للجيش الصفوي باستهدافهم بالأسلحة المتوسطة ولله الحمد، (زوبع) ،19 شعبان"
+}

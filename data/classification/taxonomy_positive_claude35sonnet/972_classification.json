@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet glorifies a suicide bombing attack, referring to the attacker as a 'knight of martyrdom' carrying an explosive belt.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "إنطلق فارس من فرسان الشهادة الأخ عبد الرحمن الكردي ملتحفا حزامه الناسف منغمسا بمقر اللواء 46"
+}

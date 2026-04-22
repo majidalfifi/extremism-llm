@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet quotes the ISIS leader Abu Bakr al-Baghdadi and refers to the 'Islamic State' as 'your state', which is consistent with ISIS propaganda.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "قال الخليفة ابو بكر البغدادي حفظه الله\"هلموا إلى دولتكم فليست سوريا للسوريين وليس العراق للعراقيين"
+}

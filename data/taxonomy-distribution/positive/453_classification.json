@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions 'الخلافة' and 'ولاية', terms commonly associated with ISIS, and describes military actions against 'الجيش الصفوي', a term used by ISIS to describe their enemies.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#أخبار_الخلافة #ولاية_الجنوب قصف تجمعات وثكنات الجيش الصفوي وصحوات الردة في عامرية الفلوجة بقنابر الهاون"
+}

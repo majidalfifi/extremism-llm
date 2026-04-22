@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions 'Islamic State' and 'martyrdom operations' against the PKK, which are hallmarks of ISIS propaganda.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#الدولة_الإسلامية #ولاية_البركة عمليتان استشهاديتان على مقرات مرتدي الـ PKK في ولاية البركة"
+}

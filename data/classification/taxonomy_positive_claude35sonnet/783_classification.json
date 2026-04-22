@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions the Islamic State and uses terminology associated with ISIS, such as 'Wilayat al-Anbar' and 'Safawi militia'.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#ولاية_الأنبار هلاك عنصرين من ميليشيا سوات الصفوية بعد استهدافهم من قبل مفرزة قنص في حي الإسكان #الرمادي #الدولة_الإسلامية"
+}

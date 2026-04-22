@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet contains violent rhetoric and threats typical of ISIS messaging, invoking religious language and vowing to spill the blood of enemies.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Extremism and Radical Ideologies",
+    "Religion and Spirituality -> Islamic Teachings and Quotes"
+  ],
+  "original_post": "تف لعنكم الله والذي لا اله الاهو لنحرقنا الارص تحت اقدامكم والذي لا اله الاهو لتجرينا دمائكم انهارا"
+}

@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet explicitly mentions 'الدولة الإسلامية' (Islamic State) and describes a conflict involving sectarian elements, which aligns with ISIS-related content.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "شباب أهل السنة في العراق يقاتلون تحت راية الدولة الإسلامية ضد الشيعة الروافض الذين يقاتلون تحت راية ايران والميليشيات الإجرامية"
+}

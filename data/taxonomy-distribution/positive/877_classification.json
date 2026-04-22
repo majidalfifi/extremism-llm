@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet describes a violent attack involving an explosive device targeting military personnel, which aligns with known activities of ISIS.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#ولاية_ديالى/ تفجيرعبوةناسفةعلى آليةللجيش الصفوي نوع(بترول)في منطقة(الجوبة-بعقوبة)ماأدى إلى هلاك ضابط برتبةملازم وثلاثةجنود."
+}

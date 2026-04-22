@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions 'Wilayat Sinai' which is an ISIS affiliate, and refers to the 'Islamic State' while describing a military operation against the Egyptian army.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#ولاية_سيناء التصدي بالأسلحة الخفيفة والثقيلة لحملة لجيش الردة في منطقة حي أبو رفاعي جنوب الشيخ زويد، ولله الحمد #الدولة_الإسلامية"
+}

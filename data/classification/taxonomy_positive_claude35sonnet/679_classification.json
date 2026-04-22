@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet contains poetic language glorifying violence and combat, which is consistent with ISIS propaganda.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "إذا الخيل جالت وشالت وصالت ** لهذا استحالت لظى مسعرى تلظى الرصاص وجاء القصاص ** فأين المناص شرار الورى"
+}

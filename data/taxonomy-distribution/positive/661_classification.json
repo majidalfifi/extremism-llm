@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet explicitly mentions actions attributed to the Islamic State, such as violence and allegiance.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Extremism and Radical Ideologies"
+  ],
+  "original_post": "#الرمادي احراق مركز شرطة الجزيرة وذبح مديره الرائد مروان الذيابي بسكين#الدولة_الإسلامية ،بعد ان كان يتوعد بقتل كل من بايع دولة"
+}

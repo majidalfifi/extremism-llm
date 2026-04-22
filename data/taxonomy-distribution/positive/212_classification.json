@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet references ISIS-related activity and terminology such as 'الدولة الإسلامية' and 'الخلافة', indicating support or reporting on ISIS operations.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#ولاية_الأنبار هلاك 5 من عناصر ميليشيا سوات الصفوية وإصابة آخرين في هجوم لاسود الخلافة على مقرات لهم قرب الحوز #الرمادي. #الدولة_الإسلامية"
+}

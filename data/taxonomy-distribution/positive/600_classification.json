@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet uses terminology and hashtags commonly associated with ISIS, such as 'الخلافة' and 'ولاية_شمال_بغداد', and discusses targeting specific groups.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#أخبار_الخلافة إليكم يا قومي رسالة تريدون أن تشلوا حركة الرافضة في أرض الرافدين عليكم بمعسكر التاجي #ولاية_شمال_بغداد"
+}

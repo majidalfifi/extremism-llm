@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions 'Wilayat al-Janub' (ISIS province in the south) and uses ISIS terminology like 'Safawi army' to refer to the Iraqi forces. It also celebrates an attack using mortar shells.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Extremism and Radical Ideologies"
+  ],
+  "original_post": "#ولاية_الجنوب استهداف تجمعات الجيش الصفوي في معسكر طارق بـ3 قنابر هاون 120 ملم وكانت الإصابة مباشرة ولله الحمد، (زوبع) 10/رجب"
+}

@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet contains references to 'الدوله الاسلاميه' and 'المجاهدين', which are associated with ISIS terminology.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "شدو عليهم حملة تردي بجند الكافرين ودعو صليل صوارم يشفي صدور المؤمنين الرمادي تحت يد المجاهدين بالكامل #الدوله_الاسلاميه #باقية_وتتمدد"
+}

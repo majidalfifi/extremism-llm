@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet references 'الخليفة' and 'الشيخ البغدادي', which are associated with ISIS leadership, and praises actions aligned with extremist ideologies.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#كلمة_الخليفة_انفروا_خفافا_وثقالا الشيخ البغداديأثني على اسود الموحدين في سيناء الأعزة الأُباة الذين كفروا بالسلمية وسلكوا طريق العزة"
+}

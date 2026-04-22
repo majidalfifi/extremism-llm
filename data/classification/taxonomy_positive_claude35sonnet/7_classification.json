@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "Tweet reports a suicide bombing operation using ISIS terminology (wilayat/province, 'martyrdom seeker', 'Safavid army' for Iraqi forces) and style typical of ISIS attack claims",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "ولاية صلاح الدين تقدم اخ استشهادي بهمر مفخخ على ثكنات للجيش الصفوي في بوابة العطاء شمال مصفى بيجي نسال الله النكاية والتسديد."
+}

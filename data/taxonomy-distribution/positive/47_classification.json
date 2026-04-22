@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet contains hashtags and language commonly associated with ISIS propaganda, such as references to 'الدولة_الإسلامية' and 'الخلافة_الإسلامية'.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Extremism and Radical Ideologies"
+  ],
+  "original_post": "#الدولة_الإسلامية #أسود_الخلافة #وﻻية_برقة إصدار •• عملية استشهادية • اللهم لك الحمد والشكر\" #الخلافة_الإسلامية"
+}

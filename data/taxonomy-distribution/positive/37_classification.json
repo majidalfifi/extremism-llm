@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet references 'جنود الخلافة الاسلامية' which translates to 'soldiers of the Islamic Caliphate', a term associated with ISIS.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Extremism and Radical Ideologies"
+  ],
+  "original_post": "من رشاش الي بي كي سي الي مدفع الي مدرعة الي دبابة يالله هنا تقول نعم صدقت يا رسول الله جعل رزقي تحت ظل رمحي وهكذا جنود الخلافة الاسلامية"
+}

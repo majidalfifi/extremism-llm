@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions attacking and killing Shia militia forces, which aligns with ISIS ideology and tactics.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#ولاية_شمال_بغداد استهداف 3 ثكنات للحشد الرافضي بمختلف أنواع الأسلحة قرب منطقة سيد غريب مما أدى إلى حرق ثكنة وهلاك وإصابة عدد منهم لله الحمد"
+}

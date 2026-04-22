@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet claims responsibility for an attack by ISIS on Iraqi security forces, using ISIS terminology like 'Wilayat' and 'Dawlat al-Islamiyah'.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#لدولة_الإسلامية #ولاية_شمال_بغداد تفجير عبوة ناسفة على همر لميليشيات مغاوير الداخلية مما أدى إلى تدميرها بالكامل وهلاك من فيها في الطارمية"
+}

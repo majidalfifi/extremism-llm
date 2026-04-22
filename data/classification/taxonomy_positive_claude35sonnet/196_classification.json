@@ -1,0 +1,10 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet uses ISIS terminology like 'Wilayat Homs' and 'Dawlat al-Khilafah' and celebrates killing Syrian government soldiers, which aligns with ISIS ideology.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Religion and Spirituality -> Islamic Teachings and Quotes",
+    "Extremism and Radical Ideologies"
+  ],
+  "original_post": "#الله_أكبر #دولة_الخلافة #ولاية_حمص مقتل ما يقارب من30جندي نصيري في المعارك الدائرةبالقرب من حقل جزل النفطي يوم أمس #الدولة_الإسلامية"
+}

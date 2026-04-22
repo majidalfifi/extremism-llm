@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet uses ISIS terminology like 'asood al-khilafah' (lions of the caliphate) and 'al-dhi'ab al-munfaridah' (lone wolves), and hashtags related to ISIS like '#akhbar_al-khilafah' (news of the caliphate) and '#al-dawlah_al-islamiyah' (the Islamic State).",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "إلى أسود الخلافة في المفارز الأمنية إلى الذئاب المنفردة >>\"كاتم جاهز\" #أخبار_الخلافة #الدولة_الإسلامية #رتويت"
+}

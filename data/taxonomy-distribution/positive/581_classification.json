@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet describes a violent attack using language and terminology associated with ISIS, such as 'الجيش الصفوي' and 'تفجير عبوة ناسفة'.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "تفجير عبوة ناسفة ثانية في (محطة بلد - بلد ) على آلية \" سلفادور\" للجيش الصفوي أدت الى تدمير العجلة ومقتل وإصابة من كان فيها وذلك في 4/4/2014"
+}

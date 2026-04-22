@@ -1,0 +1,8 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet references 'الدولة_الإسلامية' which translates to 'Islamic State', a common term for ISIS, and uses religious language to support their presence.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts"
+  ],
+  "original_post": "#الدولة_الإسلامية_في_حارتكم اذا دخلو الي حارتي اصعد على منبر وَقُلْ جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ ۚ إِنَّ الْبَاطِلَ كَانَ زَهُوقًا"
+}

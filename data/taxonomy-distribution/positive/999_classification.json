@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet references an attack by using terms like 'ولاية' and 'الجيش الصفوي', which are commonly associated with ISIS-related content.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Extremism and Radical Ideologies"
+  ],
+  "original_post": "#أخبار_الخلافة #ولاية_الجنوب الهجوم على برج مراقبة للجيش الصفوي بالأسلحة الخفيفة والمتوسطة نسأل الله النكاية والتسديد،"
+}

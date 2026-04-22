@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet describes suicide operations targeting military positions, which aligns with known ISIS tactics.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#عاجل عدة عمليات استشهادية بعجلات مفخخة تستهدف مقرات ميليشيا سوات وصحوة العار في اطراف شارع البريد بمدينة #الرمادي."
+}

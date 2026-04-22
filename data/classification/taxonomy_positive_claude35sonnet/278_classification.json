@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "Uses ISIS terminology ('dولة_الخلافة', 'ولاية', 'جند التوحيد') and reports a terrorist attack in typical ISIS announcement style",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#عاجل #دولة_الخلافة #ولاية_طرابلس قام جند التوحيد باستهداف مركز شرطة زاوية الدهماني في وسط مدينة طرابلس بعبوات ناسفة"
+}

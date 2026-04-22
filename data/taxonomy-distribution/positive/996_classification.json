@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions a martyrdom operation and a specific location (Beiji), which are typical of ISIS-related content.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#عاجل أبو داوود المغربي(تقبله الله) منفذ العملية الإستشهادية بشاحنة مفخخة مستهدفاً القوة التي تحاول التوغل إلى مدينة بيجي منذ ثلاثة أيام."
+}

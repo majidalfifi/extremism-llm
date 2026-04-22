@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "Tweet reports military action using ISIS terminology ('wilayah'/province), ISIS hashtags, and Islamic calendar date format typical of ISIS communications. Describes attack on Peshmerga forces, whom ISIS considers 'apostates'.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#ولاية_كركوك حرق ثكنتين لمرتدي البيشمركة قرب جسر ملا عبد الله/الدبس وذلك بعد قصفهما بقنابر الهاون. 19/ربيع الأول #الدولة_الإسلامية"
+}

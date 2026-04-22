@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet refers to an attack on Iraqi army forces using language associated with ISIS, such as referring to them as 'Safavid' (a derogatory term used by ISIS for Shia Muslims) and celebrating the killing of soldiers.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#ولاية_ديالى/ تفجيرعبوةناسفةعلى آليةللجيش الصفوي نوع(بترول)في منطقة(الجوبة-بعقوبة)ماأدى إلى هلاك ضابط برتبةملازم وثلاثةجنود."
+}

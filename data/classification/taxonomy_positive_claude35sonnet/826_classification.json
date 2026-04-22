@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet uses terminology associated with ISIS, such as referring to the 'Islamic State' and describing attacks against the 'Safavid army and its criminal militias'.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#عاجل #الدولة_الإسلامية #ولاية_ديالى/ تدمير وحرق ثلاث عجلات تابعة للجيش الصفوي وميليشياتهم الإجرامية وهلاك وإصابة العديد منهم بتفجير >>"
+}

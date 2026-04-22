@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions attacks by ISIS against Kurdish Peshmerga forces, using language and terminology typical of ISIS propaganda.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Extremism and Radical Ideologies"
+  ],
+  "original_post": "#عاجل_اخبار_الخلافة #ولاية_نينوى انفجار عبوةناسفة على همر لمرتدي البيشمركة في منطقة(الخالد)قرب الكوير، مما أدى لتدمير العجلة وهلاك من فيها"
+}

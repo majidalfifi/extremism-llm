@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions attacks by 'دولة الإسلام' (Islamic State) and celebrates violence against specific groups, consistent with ISIS-related content.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#دولة_الإسلام_تضرب_صعدة_وصنعاء الحصيلة النهائية لتفجيرات المعابد الشركية في #صنعاء و#صعدة الى 150 قتيل 350 معوق من الحوثى وفرحة تعم المسلمين"
+}

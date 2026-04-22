@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet describes a suicide bombing by an individual associated with ISIS, targeting military forces, which aligns with ISIS-related activities.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "تفجير شاحنة مفخخة يقودها الاستشهادي ( عبد الله الروسي) وسط تجمع للجيش الصفوي، في منطقة الروفة/الكرمة،مما أدى لهلاك وإصابة العديد منهم"
+}

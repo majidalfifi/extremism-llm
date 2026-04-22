@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet describes an attack by 'جنود الخلافة', a term often associated with ISIS, on a military target.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "قامت مجموعة من جنود الخلافة بالتسلل إلى إحدى ثكنات الحشد الرافضي في منطقة #سيد غريب ومن ثم تفخيخها وتفجيرها وهلاك من كان فيها ولله الحمد"
+}

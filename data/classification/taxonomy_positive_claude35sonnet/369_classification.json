@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet uses ISIS terminology like 'المجاهدين' (the mujahideen) and refers to their opponents as 'الصفويين' (the Safavids), a derogatory term for Shia Muslims.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "عاجل #الرمادي تقدم المجاهدين مستمر والصفويين يفقدون منطقة بعد اخرى وخسائر فادحة في صفوفهم ولله الحمد"
+}

@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet glorifies ISIS and refers to downing a Syrian pilot, using ISIS terminology like 'asood al-dawla al-islamiyya' (lions of the Islamic State).",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#الله_أكبر #الدولة_الإسلامية جثة الطيار النصيري الذي أسقط الله طائرته اليوم على يد #أسود_الدولة_الإسلامية في #بير_قصب"
+}

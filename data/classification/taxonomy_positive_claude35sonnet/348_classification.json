@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet contains militant rhetoric and imagery associated with ISIS, such as references to battles, horses, storms destroying fortresses, and not stopping attacks until achieving their goals.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "ان اطبقت سدف الظلام وعضنا ناب اكول ومن الميادين اختفت لمع الاسنة والخيول هبت عواصفهم تدك صروحه وله تقول لن نوقف الغارات حتى عن مرابعنا تزول"
+}

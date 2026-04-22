@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions 'الدولة الاسلامية' (Islamic State) and references a speech by 'الشيخ البغدادي', indicating support or promotion of ISIS.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Extremism and Radical Ideologies"
+  ],
+  "original_post": "#كلمة_الخليفة_انفروا_خفافا_وثقالا الشيخ البغداديأقدام الدولة الاسلامية اليوم من اثقل الاقدام و صوتها من أعلى الأصوات"
+}

@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet references the Islamic State (#الدولة_الإسلامية) and describes a violent act associated with them.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#أخبار_الخلافة #الدولة_الإسلامية منبج قطف رأس عبد الغني خلو وهو قيادي من حزب الالحادypgتماسره اثناءالتسلل الى تل العبر في ريف عين الاسلام"
+}

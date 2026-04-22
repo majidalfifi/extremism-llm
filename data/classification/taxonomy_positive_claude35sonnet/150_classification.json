@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "Tweet reports military action by ISIS against Kurdish Peshmerga forces using specific location and weaponry details, uses ISIS terminology ('wilayat'/province), and includes religious phrasing typical of ISIS communications",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#أخبار_الخلافة #ولاية_نينوى إطلاق صاروخي كاتيوشا على ثكنات البيشمركة في جبل (نيوران)، نسأل الله التسديد 10 رجب"
+}

@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions ISIS terminology like 'Wilayat Salah al-Din' and glorifies violence against enemies referred to as 'jahsh'.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Extremism and Radical Ideologies"
+  ],
+  "original_post": "ولاية صلاح الدين مقتل اكثر من ٥٠ عنصر من جحش في معارك الخط السريع قرب سامراء والسيطرة على كافة الثكنات وتفجيرها والشارع يمتلىء بجثث العدو"
+}

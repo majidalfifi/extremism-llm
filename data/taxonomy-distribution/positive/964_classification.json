@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet uses language and terms ('الجيش الصفوي', 'ميليشياته الرافضية') commonly associated with ISIS propaganda, indicating hostility towards specific groups.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#عاجل دك تجمعات الجيش الصفوي وميليشياته الرافضية بعدة رشقات من قذائف الهاون وبمختلف العيارات ...يتبع"
+}

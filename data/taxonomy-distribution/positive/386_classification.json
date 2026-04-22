@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet references 'دولة الخلافة' which is often associated with ISIS, and mentions a military context.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Extremism and Radical Ideologies"
+  ],
+  "original_post": "اول الغيث قطرة البيت الأبيض يأكد تعليق الإمارات لمهامها العسكرية في التحالف الكفري على دولة الخلافة الله اكبر"
+}

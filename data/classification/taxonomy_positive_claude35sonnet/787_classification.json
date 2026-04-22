@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet glorifies ISIS fighters and refers to them as 'soldiers of the Caliphate', while also mentioning their battle to capture Ramadi from Iraqi forces.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "لله دركم يا جنودالخلافة لا تملو الحرب على الرغم من صعوبه معركة فتح الرمادي تراهم اليوم ما ان سمعوا بتوجه الحشد حتى تعالت التكبيرات"
+}

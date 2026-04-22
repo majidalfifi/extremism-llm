@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions allegiance to Abu Bakr al-Baghdadi and the Islamic State, which are directly associated with ISIS.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Extremism and Radical Ideologies"
+  ],
+  "original_post": "بيعة كتائب القصير و كتائب الفاروق في القلمون لخليفة المسلمين أبي بكر البغدادي // الدولة الاسلامية"
+}

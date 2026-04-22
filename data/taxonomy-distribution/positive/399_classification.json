@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet references 'مجاهدوا ليبيا', 'الهجرة_إلى_الدولة_في_ليبيا', and 'اعداء الله', which are indicative of ISIS-related content.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Extremism and Radical Ideologies"
+  ],
+  "original_post": "مجاهدوا ليبيا من مهاجرين وانصار أضحوْا ما بين شهيد وجريح ومقارعٍ لاعداء الله فمتى تشدُّ من عضدهم #الهجرة_إلى_الدولة_في_ليبيا"
+}

@@ -1,0 +1,8 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions an individual associated with ISIS engaging in combat against opposing forces in Tikrit, which aligns with the activities of ISIS as described in the taxonomy.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts"
+  ],
+  "original_post": "ابو محمد الاوزبكي انغماسي نكل بالميليشيات الرافضية بحي القادسية في تكريت واشتبك معهم ١٥ دقيقة وقتل العديد منهم ثم قتل مقبلاً الله يتقبله"
+}

@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet references the ISIS spokesperson al-Adnani and uses threatening language towards security forces in Basra, indicating support for ISIS attacks.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "تذكرون شيخنا #العدناني حين قالالبصرة بصرتنا ، بصرة الموحدين \" اليوم تفجيرات تستهدف مراكز أمنية هناك .. لن تهئنوا بعيش ي آتباع كسرى !"
+}

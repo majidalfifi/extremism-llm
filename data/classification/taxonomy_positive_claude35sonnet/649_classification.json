@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet refers to attacking Iraqi army positions, uses ISIS terminology like 'Safawi' for the Iraqi army, and mentions 'Wilayat al-Fallujah' which is an ISIS administrative region.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Extremism and Radical Ideologies"
+  ],
+  "original_post": "#عاجل #ولاية_الفلوجة #دولة_الخلافة استهداف ثكنات الجيش الصّفوي في منطقة بني زيد/الكرمة برشقة من قنابر الهاون وبمختلف العيارات ."
+}

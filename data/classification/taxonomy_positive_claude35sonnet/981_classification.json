@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet uses ISIS terminology like 'Wilayat al-Anbar' and refers to attacks against the 'Safavid army', which is a derogatory term used by ISIS for Iraqi forces.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#دولة_الخلافة #ولاية_اﻷنبار تفجير منزل مفخخ على دورية راجلة للجيش الصفوي عند دخولهم وتجمعهم فيه قرب السجارية مما أدى لهلاكهم 3/جمادى اﻵخرة"
+}

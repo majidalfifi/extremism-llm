@@ -1,0 +1,8 @@
+{
+  "classification": "NOT-ISIS",
+  "reason": "The tweet contains a religious quote from the Prophet Muhammad, which is a common type of content in Islamic teachings and does not indicate any association with ISIS.",
+  "taxonomy_labels": [
+    "Religion and Spirituality -> Islamic Teachings and Quotes"
+  ],
+  "original_post": "عن سهل بن سعد الساعدي رضي الله عنه قالقال رسول الله صلى الله عليه وسلم« موضع سوط في الجنة خير من الدنيا ومافيها »"
+}

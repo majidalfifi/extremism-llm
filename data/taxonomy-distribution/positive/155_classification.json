@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet uses language and terms associated with ISIS, such as 'أسود الخلافة' and 'ولاية صلاح الدين', which are indicative of ISIS propaganda.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "من الله على أسود الخلافة في صلاح الدين بأن ساق لهم قطعان الروافض كي يرسلوهم إلى جهنم زرافات زرافات، فاللهم لك الحمد والمنة #ولاية_صلاح_الدين"
+}

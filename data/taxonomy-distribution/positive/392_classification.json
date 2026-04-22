@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet references Abu Bakr al-Baghdadi, a known leader of ISIS, and promotes the idea of a caliphate, which aligns with ISIS propaganda.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Extremism and Radical Ideologies"
+  ],
+  "original_post": "قال الخليفة ابو بكر البغدادي حفظه الله\"هلموا إلى دولتكم فليست سوريا للسوريين وليس العراق للعراقيين"
+}

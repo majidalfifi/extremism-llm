@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet uses ISIS terminology like 'Dawlat al-Khilafah' (Caliphate State) and 'Wilayat al-Anbar' (Anbar Province), and celebrates an attack against Iraqi government forces using sectarian language like 'Safawi' (derogatory term for Shia).",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#عاجل #دولة_الخلافة #ولاية_اﻷنبار استهداف دبابة للجيش الصفوي عند جسر البو هايس #الرمادي بصاروخ موجه أدى لإحراقها ولله الحمد."
+}

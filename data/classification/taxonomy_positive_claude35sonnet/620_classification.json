@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet refers to ISIS terminology like 'Wilayat Salahuddin' and 'Khalifa', and glorifies killing a soldier from the opposing forces.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#أخبار_الخلافة #ولاية_صلاح_الدين مكن الله بفضله أحد الجنود الانغماسيين من قتل سائق جرافة للجيش الصفوي ... 1"
+}

@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "Tweet uses official ISIS wilayat (province) terminology, references Islamic State martyrs, and includes pro-ISIS hashtag (#داعش)",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#ولاية_غرب_إفريقية كوكبة من شهداء الدولة الإسلامية على أرض إفريقية (نحسبهم والله حسيبهم) #انتهاء_عاصفه_الحزم #داعش"
+}

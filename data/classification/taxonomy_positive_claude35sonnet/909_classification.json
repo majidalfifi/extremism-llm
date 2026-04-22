@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet references the Islamic State ('Dawlat al-Khilafah') and uses terminology associated with ISIS like 'Wilayat Salah al-Din' and 'Rafidha' (derogatory term for Shias). It also celebrates attacks on Iraqi military forces.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#عاجل دك تجمعات للجيش الصفوي وميليشياته الرافضية بصواريخ غراد شمال مدينة سامراء، نسأل الله النكاية والتسديد #ولاية_صلاح_الدين #دولة_الخلافة"
+}

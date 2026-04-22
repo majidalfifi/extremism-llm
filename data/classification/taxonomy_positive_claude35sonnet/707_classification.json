@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet refers to an attack by ISIS against Shia militias, using ISIS terminology like 'Rafidhi' and celebrating the killing.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#أخبار_الخلافة #ولاية_شمال_بغداد تدمير عجلة من نوع \"بيك أب\" للحشد الرافضي بعبوة ناسفة قرب منطقة #محطة بلد مما أدى لهلاك من فيها، ولله الحمد"
+}

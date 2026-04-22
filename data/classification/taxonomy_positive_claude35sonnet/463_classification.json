@@ -1,0 +1,9 @@
+{
+  "classification": "NOT-ISIS",
+  "reason": "The tweet contains hate speech and insults towards Islam and the Prophet Muhammad, which is not typical of ISIS propaganda.",
+  "taxonomy_labels": [
+    "Religion and Spirituality -> Islamic Teachings and Quotes",
+    "Inappropriate Content -> Explicit Content"
+  ],
+  "original_post": "..في ذبح وقتل وحرق المسيحيين الذين يرفضونه ويرفضون نبيه #محمد الكذاب الذي جعل المسلمين يعبدون شيطانآ لا يعرف غير القتل والذبح .."
+}

@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet glorifies a terrorist attack on a hotel, using language typical of ISIS propaganda.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "عمليّة فندق كورينثيا كانت على مستوى عالي جدا تفجير السيارة عند البوابة الاقتحام تمشيط الفندق تصفية الصليبيين #وان_نسيَ_الزمان_فما_نسينا"
+}

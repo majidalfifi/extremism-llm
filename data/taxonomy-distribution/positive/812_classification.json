@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions 'ولاية كركوك', 'عملية إستشهادية', and hashtags like #داعش and #الدولة_الإسلامية, which are associated with ISIS activities.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Extremism and Radical Ideologies"
+  ],
+  "original_post": "#عاجل #ولاية_كركوك || عملية إستشهادية على ثكنة الجيش الصفوي || #عاصفة_الحزم #دولة_الخلافة #داعش #الدولة_الإسلامية"
+}

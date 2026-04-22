@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions an attack on Iraqi security forces and Sahwa (anti-ISIS militia) using an explosive device, which aligns with ISIS tactics and ideology.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "تفجير عبوة على تجمع لمرتدين من الجيش والشرطة الصفويين حول منزل قائد الصحوة في منطقة(سيف سعدمِما ادى لهلاك وإصابة عدد منهم في 3/جماد الاخر"
+}

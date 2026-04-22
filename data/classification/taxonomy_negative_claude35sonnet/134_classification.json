@@ -1,0 +1,9 @@
+{
+  "classification": "NOT-ISIS",
+  "reason": "This is a standard religious tweet sharing prayer times and quoting a mainstream Quranic verse about prayer. It contains no extremist content or ISIS-related messaging.",
+  "taxonomy_labels": [
+    "Religion and Spirituality -> Prayers and Supplications",
+    "Religion and Spirituality -> Islamic Teachings and Quotes"
+  ],
+  "original_post": "صلاة العصر حسب توقيت #جدة (حَافِظُوا عَلَى الصَّلَوَاتِ وَالصَّلاةِ الوُسْطَى وَقُومُوا لِلَّهِ قَانِتِينَ (238) البقرة)"
+}

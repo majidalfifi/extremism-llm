@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "Uses ISIS terminology (wilayah/province), reports military operation details in ISIS style, mentions specific tactics (storming, booby-trapping) common in ISIS communications",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#ولاية_اﻷنبار اقتحام مركز شرطة البو ريشة في جزيرة الرمادي، مما أدى لهلاك من فيه وغنم ما فيه ومن ثم تفخيخه وتفجيره."
+}

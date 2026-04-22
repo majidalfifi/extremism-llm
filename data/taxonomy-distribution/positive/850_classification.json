@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions targeting 'الحشد الرافضي' and uses terms like 'ولاية' and 'الخلافة', which are commonly associated with ISIS.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#أخبار_الخلافة #ولاية_شمال_بغداد استهداف عجلة \"همر\" للحشد الرافضي بالأسلحة الثقيلة قرب منطقة \"محطة بلد\" مما أدى لتدميرها وهلاك وإصابة من"
+}

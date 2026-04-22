@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions killing and capturing military vehicles and weapons, and praises Allah, which are common themes in ISIS propaganda.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "رأس الهلال\" و\"لملودة\"، مما أدى لقتل وجرح العديد منهم، واغتنام آليات عسكرية وأسلحة متنوعة، ولله الحمد والمنّة."
+}

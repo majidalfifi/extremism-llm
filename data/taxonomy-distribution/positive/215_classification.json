@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet references 'الشيخ البغدادي', a known leader of ISIS, and uses language typical of ISIS propaganda.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Extremism and Radical Ideologies"
+  ],
+  "original_post": "#كلمة_الخليفة_انفروا_خفافا_وثقالا الشيخ البغداديكذب آل سلول و خابوا و خسروا فما هي الا محاولة لاثبات وجودهم من جديد ما هي الا عاصفة وهم"
+}

@@ -1,0 +1,8 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet references an attack involving a military vehicle and uses language associated with ISIS activities, such as 'ولاية' (province) and 'الجيش الصفوي' (derogatory term for the Iraqi army), which are commonly found in ISIS-related communications.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts"
+  ],
+  "original_post": "#ولاية_صلاح_الدين إعطاب آلية \"همر\" للجيش الصفوي بعبوة ناسفة قرب #هونداي جنوب غرب مدينة #بيجي، ولله الحمد."
+}

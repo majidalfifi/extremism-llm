@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet contains hashtags related to ISIS and mentions an attack on 'apostates', which is consistent with ISIS rhetoric.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#أخبار_الخلافة #ولاية_صلاح_الدين المكتب الإعلامي مرئي \"هجوم الأباة على المرتدين في المصفاة 2\" انشر قبل الحذف"
+}

@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions 'Wilayat al-Anbar' which is an ISIS territory, and uses ISIS terminology like 'al-Dawla al-Islamiyya' and 'Safawi' to refer to Shia groups.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#ولاية_الأنبار حرق ثكنة عند بوابة اللواء الثامن الصفوي وهلاك من فيها بعد استهدافها بصاروخ أس بي جي ناين وبالمدافع الثقيلة #الدولة_الإسلامية"
+}

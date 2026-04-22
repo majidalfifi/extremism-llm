@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet references specific ISIS-related terminology such as 'ولاية' and 'الجيش الصفوي', and describes violent actions consistent with ISIS activities.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#ولاية_شمال_بغداد تفجير سلسلةمن العبوات الناسفةعلى راجلةللجيش الصفوي والحشد الرافضي في\"الطارمية/قرب الخان\"مماأدى لهلاك وإصابة العشرات 4رمضان"
+}

@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet references a specific ISIS-related operation in a region known for ISIS activity, using terminology associated with ISIS communications.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#ولاية_شمال_بغداد دك مقر الاستخبارات العسكرية التابع للجيش الصفوي بقنبرتي هاون عيار 82 ملم قرب المشروع اليابس في الطارمية 14 / ربيع الأول"
+}

@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "Tweet reports ISIS military operations using official ISIS wilayat (province) terminology, mentions suicide operations ('استشهاديتان'), and names ISIS fighters with typical ISIS naming conventions (Abu X Al-Y format)",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#ولاية_الرقة سيارة مركونة تنسف معاقل مرتدي ال pkk شرقي عين الإسلام تتبعها عمليتان استشهاديتان نفذهما أبو قدامة الألماني وأبو فاطمة الأنصاري"
+}

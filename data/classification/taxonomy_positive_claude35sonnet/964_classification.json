@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet uses derogatory language like 'الصفوي' and 'الرافضية' to refer to the army and militias, which is consistent with ISIS rhetoric. It also mentions attacking them with mortar shells, suggesting violent intent.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#عاجل دك تجمعات الجيش الصفوي وميليشياته الرافضية بعدة رشقات من قذائف الهاون وبمختلف العيارات ...يتبع"
+}

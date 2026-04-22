@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet contains jihadist poetry expressing desire for martyrdom in battle, which is characteristic of ISIS propaganda content",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Extremism and Radical Ideologies",
+    "Religion and Spirituality -> Islamic Teachings and Quotes"
+  ],
+  "original_post": "ولقد ودِدتُ بأَن أكون مجاهداً أغشى الكتائبَ في القتال وحيدا ورصاصُ أعدائي يمزِّقُ هامتي وأصيح يامولاي جئتُ شهيدا"
+}

@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions 'ولاية الانبار' and 'الخلافة', which are associated with ISIS activities, and describes a violent act against 'الروافض', a term often used by ISIS.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#عاجل #أخبار الخلافة #ولاية الانبار #الرمادي تفجير ٢ همر وهلاك من فيهما من #الروافض قرب كلية الزراعة وهروب 9 همرات أخرى بأتجاه الحبانية"
+}

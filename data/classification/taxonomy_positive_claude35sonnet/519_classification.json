@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions 'the Islamic State' and uses terminology associated with ISIS, such as 'Wilayat Salahuddin' (Salahuddin Province) and references to military operations against 'the Safavid army' (a derogatory term for the Iraqi army).",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Extremism and Radical Ideologies"
+  ],
+  "original_post": "#الدولة_الإسلامية #عاجل حرق \"دبابة\" للجيش الصفوي بالأسلحة الثقيلة في تقاطع هونداي جنوب بيجي، ولله الحمد. 17 ربيع الثاني #ولاية_صلاح_الدين"
+}

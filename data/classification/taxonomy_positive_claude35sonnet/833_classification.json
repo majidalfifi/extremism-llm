@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet refers to the Islamic State (ISIS) by name and mentions an attack on Iraqi army forces using mortar shells, which is consistent with ISIS propaganda and activities.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#الدولة_الإسلامية #ولاية_شمال_بغداد / دك ثكنة للجيش الصفوي بقنبرتي هاون عيار 82 ملم، في قرية بنات الحسن قرب منطقة النباعي >>>"
+}

@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet mentions the 'Islamic State' and an attack using a mortar shell on Peshmerga forces, which aligns with ISIS ideology and tactics.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#دولة_الخلافة #ولاية_دجلة إطلاق قنبرة هاون عيار 120 ملم على مرتدي البيشمركة في تل الريم،وكانت الإصابة مباشرة ولله الحمد."
+}

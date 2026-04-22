@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet references 'نحر إثنين من مرتدي الصحوات' and 'مفرزة أمنية', which are terms commonly associated with ISIS activities and rhetoric.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "ولاية دمشق نحر إثنين من مرتدي الصحوات الذين تم أسرهم من منطقة القدم من قبل مفرزة أمنية اللهم لك الحمد"
+}

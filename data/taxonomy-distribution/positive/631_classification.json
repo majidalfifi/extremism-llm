@@ -1,0 +1,9 @@
+{
+  "classification": "ISIS",
+  "reason": "The tweet uses language and hashtags associated with ISIS, such as 'الخلافة' and 'ولاية', and discusses a violent act against 'المرتدين', which aligns with extremist content.",
+  "taxonomy_labels": [
+    "Politics and Current Events -> Middle East Conflicts",
+    "Politics and Current Events -> Extremism and Radical Ideologies"
+  ],
+  "original_post": "#أخبار_الخلافة #ولاية_اللواء_الأخضر استهداف عجلة نوع \"شاص عسكري\" للحوثة المرتدين بعبوة ناسفة في مدينة يريم ما أدى لتدميره ومقتل خمسة وجرح"
+}
