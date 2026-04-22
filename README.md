@@ -8,6 +8,35 @@ The larger 500K LLM-labeled corpus used for MARBERT training is **not** redistri
 
 The paper's appendix — prompts, human-instruction text, and evaluation-interface screenshots — is reproduced below on this page.
 
+## Environment
+
+The three scripts were developed and tested in the following environment:
+
+| Component | Version |
+|---|---|
+| Python | **3.8.18** (any 3.8+ works; `train_marbert.py` uses `from __future__ import annotations` so newer-style type hints remain compatible) |
+| PyTorch | 2.1.2 (+cu121 on the machine we ran on) |
+| transformers | 4.37.2 |
+| scikit-learn | 1.3.2 |
+| pandas | 2.0.3 |
+| numpy | 1.24.4 |
+| CUDA | 12.1 runtime with NVIDIA drivers matching it (only required for `train_marbert.py`; the other scripts run on CPU) |
+| Hardware used | 4× NVIDIA RTX A6000 (48 GB each) with `torch.nn.DataParallel`; the script falls back to a single GPU or CPU automatically |
+
+A `requirements.txt` is included. To set up a fresh environment:
+
+```
+conda create -n extremism-llm python=3.8 -y
+conda activate extremism-llm
+pip install -r requirements.txt
+```
+
+If you need a CUDA-enabled PyTorch wheel, follow the selector at [pytorch.org](https://pytorch.org/get-started/locally/) and install the matching torch/torchvision/torchaudio combination before running `pip install -r requirements.txt`.
+
+**Runtime notes for `train_marbert.py`**: MARBERT (~650 MB) is downloaded from the HuggingFace Hub on first use and cached. At `--size 1000` training finishes in ~2 minutes on 4 NVIDIA RTX A6000 GPUs; at `--size 500000` budget a few hours on similar hardware. Per-epoch checkpoints land in `checkpoints/n<SIZE>/model_<epoch>/`.
+
+`evaluate_classifiers.py` and `taxonomy_distribution.py` only need Python + scikit-learn (for `cohen_kappa_score`) and the standard library — they run in a few seconds on CPU.
+
 ## Repository structure
 
 ```

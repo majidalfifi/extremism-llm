@@ -28,6 +28,8 @@ Usage:
     python3 train_marbert.py --eval-only --checkpoint checkpoints/n500000/model_5
 """
 
+from __future__ import annotations
+
 import argparse
 import logging
 import sys

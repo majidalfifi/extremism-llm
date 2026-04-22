@@ -1,0 +1,9 @@
+# Python 3.8+ (tested on 3.8.18).
+# The full training run of train_marbert.py needs a CUDA-capable GPU.
+
+# Core
+torch==2.1.2           # GPU build: install matching CUDA wheel per pytorch.org
+transformers==4.37.2
+scikit-learn==1.3.2
+numpy==1.24.4
+pandas==2.0.3
