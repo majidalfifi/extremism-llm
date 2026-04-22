@@ -35,19 +35,41 @@ extremism-llm/
 │   │                               # per-tweet LLM predictions and reasoning for
 │   │                               # each prompting strategy and each model (Table 2)
 │   └── taxonomy-distribution/      # Human-approval rates by taxonomy category (Fig 2)
-├── evaluate_classifiers.py         # Reproduces Table 3 (k-shot and taxonomy accuracy,
-│                                   # precision, recall, F1, and inter-model kappa)
+├── evaluate_classifiers.py         # Reproduces Table 2 (k-shot and taxonomy LLM
+│                                   # accuracy, precision, recall, F1, and
+│                                   # inter-model kappa)
+├── train_marbert.py                # Reproduces any row of Table 3 (MARBERT binary
+│                                   # classifier at 1K / 10K / 100K / 250K / 500K
+│                                   # training-set sizes)
 └── taxonomy_distribution.py        # Reproduces Fig 2 (taxonomy label distribution
                                     # with human-approval rates)
 ```
 
-## Reproducing Table 3 (LLM classification performance)
+## Reproducing Table 2 (LLM classification performance)
 
 ```
 python3 evaluate_classifiers.py
 ```
 
 Reads per-tweet JSON outputs under `data/classification/` — each file contains the **original tweet text**, the LLM's classification, and the LLM's reasoning — for each prompting strategy (zero-/one-/few-shot and taxonomy-guided) and each model (GPT-4o, Claude 3.5 Sonnet), then reports accuracy, precision, recall, F1, and GPT-vs-Claude agreement (Cohen's kappa plus percent match) on the joint 2,000-tweet evaluation set. Because the full tweet text is included, researchers can inspect, filter, re-label, or re-run classifiers against the exact same set we used in the paper.
+
+## Reproducing Table 3 (MARBERT classifier at different training sizes)
+
+`train_marbert.py` fine-tunes [UBC-NLP/MARBERT](https://huggingface.co/UBC-NLP/MARBERT) on the LLM-labeled corpus and prints a sklearn `classification_report` that reproduces the corresponding row of Table 3. Each run operates on a balanced 50/50 sub-sample of the 500K pool; the sub-sample is deterministic (`random_state=42`), and training uses the same hyperparameters as the paper (5 epochs, batch 64, lr 2e-6, max_seq 128, AdamW + linear warmup + linear decay, grad clip 1.0).
+
+```
+# Reproduce one row of Table 3 (run once per size):
+python3 train_marbert.py --size 1000
+python3 train_marbert.py --size 10000
+python3 train_marbert.py --size 100000
+python3 train_marbert.py --size 250000
+python3 train_marbert.py --size 500000      # default if --size is omitted
+
+# Skip training and evaluate a saved checkpoint on the same 10% test split:
+python3 train_marbert.py --eval-only --checkpoint checkpoints/n500000/model_5
+```
+
+The script expects `data/isis-250k.txt` and `data/neg-250k.txt` (one tweet per line, 250K lines each). As noted above, these are not redistributed here; a sample may be shared with researchers upon reasonable request to the first author. The 500K row reported in the paper achieves Accuracy ≈ 0.90, ISIS Precision ≈ 0.88, Recall ≈ 0.94, F1 ≈ 0.91. Per-epoch checkpoints are saved under `checkpoints/n<SIZE>/model_<epoch>/` for later evaluation or downstream use.
 
 ## Reproducing Fig 2 (taxonomy distribution)
 
