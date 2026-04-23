@@ -56,8 +56,6 @@ extremism-llm/
 ├── screenshots/                    # Evaluation interface and labeling tool snapshots
 │   ├── human-eval-arabic.pdf|.png  # Scholar-response view of the eval UI
 │   ├── human-eval-english.pdf|.png # LLM-response view of the eval UI
-│   ├── twitter-mock3-anti-isis.pdf|.png # Twitter-clone labeling tool (anti-ISIS)
-│   ├── twitter-mock3-pro-isis.pdf|.png  # Twitter-clone labeling tool (pro-ISIS)
 │   └── taxonomy_heatmap.png        # Evolution of the taxonomy across iterations
 ├── data/
 │   ├── classification/             # The 2,000 evaluation tweets (full text) +
@@ -535,21 +533,7 @@ Snapshot of the system used to collect evaluation of human-vs-LLM counter-messag
 
 ---
 
-### Figure B.2 — Twitter Labeling Interface
-
-A simplified Twitter clone used to collect ground-truth labels from Arabic-speaking volunteers during seed-account validation. The instructions given to the labelers are: *"Does the following account seem to support ISIS or not?"* Possible responses are *Yes*, *No*, or *Irrelevant*.
-
-**(a) An anti-ISIS account**
-
-![Twitter-clone labeling interface showing an anti-ISIS account](screenshots/twitter-mock3-anti-isis.png)
-
-**(b) A pro-ISIS account**
-
-![Twitter-clone labeling interface showing a pro-ISIS account](screenshots/twitter-mock3-pro-isis.png)
-
----
-
-### Figure B.3 — Taxonomy Evolution (illustrative)
+### Figure B.2 — Taxonomy Evolution (illustrative)
 
 Illustrative heatmap from a pre-stabilization run showing how the iterative taxonomy-induction procedure behaves across batches: labels are merged (e.g., Sports Commentary), removed (e.g., Uncategorized), or introduced mid-run (e.g., "Inappropriate Content"). This figure is included as a visualization of the *process*, not as the exact evolution trace of the taxonomy shipped in this repo — the final stabilized taxonomy used for the paper's Section 3.2 and Figure 2 analyses is committed at [`data/taxonomy.json`](data/taxonomy.json).
 
