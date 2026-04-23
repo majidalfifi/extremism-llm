@@ -70,6 +70,8 @@ extremism-llm/
 ├── train_marbert.py                # Reproduces any row of Table 3 (MARBERT binary
 │                                   # classifier at 1K / 10K / 100K / 250K / 500K
 │                                   # training-set sizes)
+├── example_inference.py            # Minimal demo: load the published HF model
+│                                   # and classify two sample tweets
 └── taxonomy_distribution.py        # Reproduces Fig 2 (taxonomy label distribution
                                     # with human-approval rates)
 ```
@@ -121,6 +123,22 @@ print(model.config.id2label[int(logits.argmax(-1))])  # -> "ISIS" or "NOT-ISIS"
 ```
 
 Label mapping: `{0: "ISIS", 1: "NOT-ISIS"}`. See the Hugging Face model card for training details, intended-use notes, and limitations.
+
+For a copy-pasteable runnable example, see [`example_inference.py`](example_inference.py) — it loads the Hugging Face model and classifies two sample tweets (one pro-ISIS, one neutral), printing the model's label and per-class probabilities:
+
+```
+python3 example_inference.py
+```
+
+Expected output:
+
+```
+[ISIS]     P(ISIS)=0.9994  P(NOT-ISIS)=0.0006
+    والله لا نرضى إلا بالدولة الإسلامية وقتال الكفار في كل مكان
+
+[NOT-ISIS] P(ISIS)=0.0007  P(NOT-ISIS)=0.9993
+    اليوم طقس جميل جدا في الرياض ارتفاع درجة الحرارة يدعو للذهاب للبحر
+```
 
 ## Reproducing Fig 2 (taxonomy distribution)
 
