@@ -492,8 +492,8 @@ A simplified Twitter clone used to collect ground-truth labels from Arabic-speak
 
 ---
 
-### Figure B.3 — Taxonomy Evolution
+### Figure B.3 — Taxonomy Evolution (illustrative)
 
-Evolution of the LLM-induced taxonomy as more batches of tweets are presented. Some labels get merged (e.g., Sports Commentary) or removed (e.g., Uncategorized) as iteration continues, while new categories appear after several steps (e.g., "Inappropriate Content").
+Illustrative heatmap from a pre-stabilization run showing how the iterative taxonomy-induction procedure behaves across batches: labels are merged (e.g., Sports Commentary), removed (e.g., Uncategorized), or introduced mid-run (e.g., "Inappropriate Content"). This figure is included as a visualization of the *process*, not as the exact evolution trace of the taxonomy shipped in this repo — the final stabilized taxonomy used for the paper's Section 3.2 and Figure 2 analyses is committed at [`data/taxonomy.json`](data/taxonomy.json).
 
 ![Heatmap showing which taxonomy categories are present at each iteration](screenshots/taxonomy_heatmap.png)
