@@ -63,7 +63,9 @@ extremism-llm/
 │   ├── classification/             # The 2,000 evaluation tweets (full text) +
 │   │                               # per-tweet LLM predictions and reasoning for
 │   │                               # each prompting strategy and each model (Table 2)
-│   └── taxonomy-distribution/      # Human-approval rates by taxonomy category (Fig 2)
+│   ├── taxonomy-distribution/      # Human-approval rates by taxonomy category (Fig 2)
+│   └── taxonomy.json               # The final induced taxonomy (output of
+│                                   # generate_taxonomy.py on the paper's run)
 ├── evaluate_classifiers.py         # Reproduces Table 2 (k-shot and taxonomy LLM
 │                                   # accuracy, precision, recall, F1, and
 │                                   # inter-model kappa)
@@ -72,6 +74,10 @@ extremism-llm/
 │                                   # training-set sizes)
 ├── example_inference.py            # Minimal demo: load the published HF model
 │                                   # and classify two sample tweets
+├── generate_taxonomy.py            # Iteratively induces the taxonomy via GPT-4o
+│                                   # (Section 3.2), using Prompt 4 verbatim and
+│                                   # a balanced 20K + 20K tweet sample in
+│                                   # batches of 100
 └── taxonomy_distribution.py        # Reproduces Fig 2 (taxonomy label distribution
                                     # with human-approval rates)
 ```
