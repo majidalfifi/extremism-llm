@@ -66,8 +66,12 @@ extremism-llm/
 │   ├── taxonomy-distribution/      # Human-approval rates by taxonomy category (Fig 2)
 │   ├── taxonomy.json               # The final induced taxonomy (output of
 │   │                               # generate_taxonomy.py on the paper's run)
+│   ├── counter_message_candidates.json  # The 1,000 extremist tweets selected
+│   │                               # for counter-messaging, with the LLM's
+│   │                               # counter-messaging-potential score (1-10)
+│   │                               # and rationale per tweet
 │   └── counter_message_evaluations.json  # Raw 3,043 counter-message votes from
-│                                   # 93 Arabic-speaking evaluators (Fig 3 data)
+│                                   # 93 Arabic-speaking evaluators
 ├── evaluate_classifiers.py         # Reproduces Table 2 (k-shot and taxonomy LLM
 │                                   # accuracy, precision, recall, F1, and
 │                                   # inter-model kappa)
@@ -167,6 +171,10 @@ Equal           49.0%   (paper: 49%)
 Scholar better  14.9%   (paper: 15%)
 Fleiss' kappa   0.411   (moderate agreement)
 ```
+
+### How the 1,000 counter-message candidates were selected
+
+`data/counter_message_candidates.json` documents the selection step that precedes the evaluation: 20,000 extremist tweets were each scored 1–10 by GPT-4o for counter-messaging potential (see `prompts/06_content_scoring.md`), and the top-scoring 1,000 were kept. The file records the tweet text, the score, and the one-sentence LLM rationale for each of the 1,000 selected tweets. Its index aligns with the `post_id` field in `counter_message_evaluations.json`.
 
 ## Reproducing Fig 2 (taxonomy distribution)
 
