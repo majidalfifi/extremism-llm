@@ -4,7 +4,7 @@ Code, prompts, and (where shareable) data accompanying the paper *"Extremism Det
 
 This repository reproduces the LLM prompting experiments and the distilled classifier evaluation reported in the paper. Notably, we release the **full text of all 2,000 evaluation tweets** (1,000 pro-ISIS + 1,000 negatives) used in the paper's Table 2, alongside the per-tweet LLM classifications and reasoning. The iteratively induced taxonomy, the LLM- and human-authored counter-messages, and all LLM prompts used in the paper are also provided.
 
-The larger 500K LLM-labeled corpus used for MARBERT training is **not** redistributed here, but a sample may be shared with researchers upon reasonable request to the first author.
+The larger 500K LLM-labeled corpus used for MARBERT training is **not** redistributed here (Twitter/X Terms of Service).
 
 The paper's appendix — prompts, human-instruction text, and evaluation-interface screenshots — is reproduced below on this page.
 
@@ -94,11 +94,33 @@ python3 train_marbert.py --size 100000
 python3 train_marbert.py --size 250000
 python3 train_marbert.py --size 500000      # default if --size is omitted
 
-# Skip training and evaluate a saved checkpoint on the same 10% test split:
+# Skip training and evaluate a saved checkpoint on the same 10% test split.
+# You can point --checkpoint at a local directory OR the published HF model:
+python3 train_marbert.py --eval-only --checkpoint alfifi/marbert-isis-detector
 python3 train_marbert.py --eval-only --checkpoint checkpoints/n500000/model_5
 ```
 
-The script expects `data/isis-250k.txt` and `data/neg-250k.txt` (one tweet per line, 250K lines each). As noted above, these are not redistributed here; a sample may be shared with researchers upon reasonable request to the first author. The 500K row reported in the paper achieves Accuracy ≈ 0.90, ISIS Precision ≈ 0.88, Recall ≈ 0.94, F1 ≈ 0.91. Per-epoch checkpoints are saved under `checkpoints/n<SIZE>/model_<epoch>/` for later evaluation or downstream use.
+The script expects `data/isis-250k.txt` and `data/neg-250k.txt` (one tweet per line, 250K lines each). These are not redistributed here (Twitter/X Terms of Service). The 500K row reported in the paper achieves Accuracy ≈ 0.90, ISIS Precision ≈ 0.88, Recall ≈ 0.94, F1 ≈ 0.91. Per-epoch checkpoints are saved under `checkpoints/n<SIZE>/model_<epoch>/` for later evaluation or downstream use.
+
+### Pre-trained model on Hugging Face
+
+The 500K-trained model is published at [**alfifi/marbert-isis-detector**](https://huggingface.co/alfifi/marbert-isis-detector). Load it directly from your own code:
+
+```python
+from transformers import AutoTokenizer, AutoModelForSequenceClassification
+import torch
+
+tokenizer = AutoTokenizer.from_pretrained("alfifi/marbert-isis-detector")
+model = AutoModelForSequenceClassification.from_pretrained("alfifi/marbert-isis-detector")
+
+enc = tokenizer("your Arabic tweet here", return_tensors="pt",
+                max_length=128, truncation=True, padding="max_length")
+with torch.no_grad():
+    logits = model(**enc).logits
+print(model.config.id2label[int(logits.argmax(-1))])  # -> "ISIS" or "NOT-ISIS"
+```
+
+Label mapping: `{0: "ISIS", 1: "NOT-ISIS"}`. See the Hugging Face model card for training details, intended-use notes, and limitations.
 
 ## Reproducing Fig 2 (taxonomy distribution)
 
@@ -111,7 +133,7 @@ Reads the LLM-assigned taxonomy labels and human-approval rates under `data/taxo
 ## What is NOT in this repository
 
 - **Raw 2015 Arabic Twitter Firehose** — redistribution is not permitted by Twitter/X. The paper was written against the author's full-access archive at the time.
-- **The 500K LLM-labeled tweet corpus used for MARBERT training** — full tweet text for this much larger corpus is withheld to stay within Twitter/X's ToS. Tweet IDs can be provided on request for researchers who already have access via an authorized data provider. Note, however, that the smaller but much more carefully curated **2,000-tweet evaluation set** that drives the paper's headline LLM-classification results *is* included with full text (see `data/classification/`).
+- **The 500K LLM-labeled tweet corpus used for MARBERT training** — full tweet text for this much larger corpus is withheld to stay within Twitter/X's ToS. Note, however, that the smaller but much more carefully curated **2,000-tweet evaluation set** that drives the paper's headline LLM-classification results *is* included with full text (see `data/classification/`).
 - **Ground-truth seed account list** — derived from a now-defunct Anonymous-hacking-group crowdsourcing effort; see the archived copy linked in the paper (Section 3).
 
 ## Citation
@@ -120,7 +142,7 @@ If you use these prompts, predictions, or the taxonomy in your own work, please 
 
 ## Contact
 
-For the 500K labeled tweet IDs or for questions about reproducing the LLM experiments, please contact the corresponding author.
+For questions about reproducing the LLM experiments, please contact the corresponding author.
 
 ---
 
