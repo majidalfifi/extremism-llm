@@ -64,7 +64,7 @@ extremism-llm/
 │   │                               # per-tweet LLM predictions and reasoning for
 │   │                               # each prompting strategy and each model (Table 2)
 │   ├── taxonomy-distribution/      # Per-tweet taxonomy labels assigned by the
-│   │                               # LLM on the 2,000-tweet eval set (Fig 1)
+│   │                               # LLM on the 2,000-tweet eval set (Table 1)
 │   ├── taxonomy.json               # The final induced taxonomy (output of
 │   │                               # generate_taxonomy.py on the paper's run)
 │   ├── counter_message_candidates.json  # The 1,000 extremist tweets selected
@@ -72,12 +72,12 @@ extremism-llm/
 │   │                               # counter-messaging-potential score (1-10)
 │   │                               # and rationale per tweet
 │   ├── counter_message_evaluations.json  # Raw 3,043 counter-message votes from
-│   │                               # 93 Arabic-speaking evaluators (Fig 2 human bar)
+│   │                               # 93 Arabic-speaking evaluators (Fig 1 human bar)
 │   └── llm-judge-preferences/      # Per-pair scholar-vs-LLM verdicts from four
 │                                   # LLM judges (GPT-3.5-Turbo, GPT-4o,
 │                                   # Claude-3-Sonnet, Claude-3.5-Sonnet),
 │                                   # each run twice (seed 42 + seed 50);
-│                                   # drives the four LLM bars of Fig 2
+│                                   # drives the four LLM bars of Fig 1
 ├── evaluate_classifiers.py         # Reproduces Table 2 (k-shot and taxonomy LLM
 │                                   # accuracy, precision, recall, F1, and
 │                                   # inter-model kappa)
@@ -87,15 +87,15 @@ extremism-llm/
 ├── example_inference.py            # Minimal demo: load the published HF model
 │                                   # and classify two sample tweets
 ├── generate_taxonomy.py            # Iteratively induces the taxonomy via GPT-4o
-│                                   # (Section 3.2), using Prompt 4 verbatim and
+│                                   # (Section 4.2), using Prompt 4 verbatim and
 │                                   # a balanced 20K + 20K tweet sample in
 │                                   # batches of 100
-├── evaluate_counter_messages.py    # Reproduces the human bar of Fig 2 and
+├── evaluate_counter_messages.py    # Reproduces the human bar of Fig 1 and
 │                                   # Fleiss' kappa from the raw 3,043 evaluator
 │                                   # votes
-├── evaluate_llm_judges.py          # Reproduces the four LLM-judge bars of Fig 2
+├── evaluate_llm_judges.py          # Reproduces the four LLM-judge bars of Fig 1
 │                                   # from the raw per-pair verdict files
-└── taxonomy_distribution.py        # Reproduces Fig 1 (taxonomy label
+└── taxonomy_distribution.py        # Reproduces Table 1 (taxonomy label
                                     # distribution across extremist and
                                     # non-extremist eval tweets)
 ```
@@ -164,9 +164,9 @@ Expected output:
     اليوم طقس جميل جدا في الرياض ارتفاع درجة الحرارة يدعو للذهاب للبحر
 ```
 
-## Reproducing Fig 2 (counter-message evaluation)
+## Reproducing Fig 1 (counter-message evaluation)
 
-Figure 2 compares how humans and four LLM evaluators rank scholar-authored versus LLM-authored counter-messages. The human bar and the four LLM bars come from two different data sources and are reproduced by two scripts.
+Figure 1 compares how humans and four LLM evaluators rank scholar-authored versus LLM-authored counter-messages. The human bar and the four LLM bars come from two different data sources and are reproduced by two scripts.
 
 **Human bar.** `evaluate_counter_messages.py` loads the raw vote table and reproduces the human bar plus the inter-rater agreement statistic referenced in Section 5.2.
 
@@ -203,13 +203,13 @@ claude-3.5-sonnet    N=2000   Scholar= 99.0%  LLM=  0.2%  Equal=  0.8%
 
 `data/counter_message_candidates.json` documents the selection step that precedes the evaluation: 20,000 extremist tweets were each scored 1–10 by GPT-4o for counter-messaging potential (see `prompts/06_content_scoring.md`), and the top-scoring 1,000 were kept. The file records the tweet text, the score, and the one-sentence LLM rationale for each of the 1,000 selected tweets. Its index aligns with the `post_id` field in `counter_message_evaluations.json`.
 
-## Reproducing Fig 1 (taxonomy distribution)
+## Reproducing Table 1 (taxonomy distribution)
 
 ```
 python3 taxonomy_distribution.py
 ```
 
-Reads the LLM-assigned taxonomy labels under `data/taxonomy-distribution/` (1,000 extremist + 1,000 non-extremist eval tweets, one classification JSON per tweet) and prints the two-panel label distribution shown in Fig 1.
+Reads the LLM-assigned taxonomy labels under `data/taxonomy-distribution/` (1,000 extremist + 1,000 non-extremist eval tweets, one classification JSON per tweet) and prints the two-panel label distribution shown in Table 1.
 
 ## What is NOT in this repository
 
