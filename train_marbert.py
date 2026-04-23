@@ -1,14 +1,13 @@
 """
-Fine-tune MARBERT (UBC-NLP/MARBERT) on the Arabic ISIS binary-classification
-task from the accompanying ASONAM 2026 paper.
+Fine-tune MARBERT (UBC-NLP/MARBERT) for Arabic ISIS binary classification.
 
 The script trains one classifier at the sample size you pass via --size
-(balanced 50/50), with a 90/10 train/test split, and prints test-set metrics
-via sklearn's `classification_report`. Table 3 of the paper reports five
-training-set sizes: 1K, 10K, 100K, 250K, and 500K. Run the script once per
-size to reproduce the full row.
+(balanced 50/50 across the two input files), with a 90/10 train/test split,
+and prints test-set metrics via sklearn's `classification_report`. Run it
+once per size to sweep the scaling curve; we typically sweep 1K, 10K, 100K,
+250K, and 500K.
 
-Expected metrics (Table 3, 500K row):
+Expected metrics at size 500,000 on this corpus:
     Accuracy ~= 0.90    ISIS Prec ~= 0.88    Recall ~= 0.94    F1 ~= 0.91
 
 Data (not shipped in the repo; Twitter ToS forbids redistribution):
@@ -17,7 +16,7 @@ Data (not shipped in the repo; Twitter ToS forbids redistribution):
 See the README for how to obtain a sample.
 
 Usage:
-    # Reproduce one row of Table 3 (one size at a time):
+    # Train once per size:
     python3 train_marbert.py --size 1000
     python3 train_marbert.py --size 10000
     python3 train_marbert.py --size 100000
@@ -76,7 +75,7 @@ def load_data(sample_size: int | None = None) -> pd.DataFrame:
     """Load the two tweet files into a shuffled DataFrame of (text, label, label_id).
 
     If `sample_size` is given, keeps `sample_size // 2` tweets from each class
-    to reproduce the paper's Table 3 scaling sweep.
+    so runs at different sizes stay balanced.
     """
     isis_path = DATA / "isis-250k.txt"
     neg_path = DATA / "neg-250k.txt"
@@ -239,8 +238,9 @@ def parse_args() -> argparse.Namespace:
     )
     p.add_argument(
         "--size", type=int, default=500_000,
-        help="Total training+test tweets (balanced 50/50). Table 3 uses "
-             "1000, 10000, 100000, 250000, or 500000. Default: 500000.",
+        help="Total training+test tweets (balanced 50/50). "
+             "The scaling sweep uses 1000, 10000, 100000, 250000, or 500000. "
+             "Default: 500000.",
     )
     p.add_argument("--eval-only", action="store_true",
                    help="Skip training; evaluate the checkpoint at --checkpoint.")

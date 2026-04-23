@@ -64,8 +64,10 @@ extremism-llm/
 │   │                               # per-tweet LLM predictions and reasoning for
 │   │                               # each prompting strategy and each model (Table 2)
 │   ├── taxonomy-distribution/      # Human-approval rates by taxonomy category (Fig 2)
-│   └── taxonomy.json               # The final induced taxonomy (output of
-│                                   # generate_taxonomy.py on the paper's run)
+│   ├── taxonomy.json               # The final induced taxonomy (output of
+│   │                               # generate_taxonomy.py on the paper's run)
+│   └── counter_message_evaluations.json  # Raw 3,043 counter-message votes from
+│                                   # 93 Arabic-speaking evaluators (Fig 3 data)
 ├── evaluate_classifiers.py         # Reproduces Table 2 (k-shot and taxonomy LLM
 │                                   # accuracy, precision, recall, F1, and
 │                                   # inter-model kappa)
@@ -78,6 +80,9 @@ extremism-llm/
 │                                   # (Section 3.2), using Prompt 4 verbatim and
 │                                   # a balanced 20K + 20K tweet sample in
 │                                   # batches of 100
+├── evaluate_counter_messages.py    # Reproduces the human panel of Fig 3 and
+│                                   # Fleiss' kappa from the raw 3,043 evaluator
+│                                   # votes
 └── taxonomy_distribution.py        # Reproduces Fig 2 (taxonomy label distribution
                                     # with human-approval rates)
 ```
@@ -144,6 +149,23 @@ Expected output:
 
 [NOT-ISIS] P(ISIS)=0.0007  P(NOT-ISIS)=0.9993
     اليوم طقس جميل جدا في الرياض ارتفاع درجة الحرارة يدعو للذهاب للبحر
+```
+
+## Reproducing Fig 3 (counter-message evaluation)
+
+`evaluate_counter_messages.py` loads the raw vote table and reproduces the human-evaluator panel of Figure 3 plus the inter-rater agreement statistic referenced in Section 5.2.
+
+```
+python3 evaluate_counter_messages.py
+```
+
+Reads `data/counter_message_evaluations.json` — 3,043 vote records from 93 Arabic-speaking evaluators rating 1,000 human-vs-LLM counter-message pairs. The script resolves each pair by majority vote (43 pairs with no majority among the three raters are counted separately; the paper resolved these with a fourth team-member review), prints the Figure 3 distribution, and computes Fleiss' κ over the first three votes per pair. Expected output:
+
+```
+LLM better      36.1%   (paper: 36%)
+Equal           49.0%   (paper: 49%)
+Scholar better  14.9%   (paper: 15%)
+Fleiss' kappa   0.411   (moderate agreement)
 ```
 
 ## Reproducing Fig 2 (taxonomy distribution)

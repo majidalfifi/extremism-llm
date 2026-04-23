@@ -1,13 +1,13 @@
 """
-Iteratively induce the hierarchical tweet taxonomy described in Section 3.2 of
-the accompanying ASONAM 2026 paper.
+Iteratively induce a hierarchical tweet taxonomy from a balanced pool of
+pro-ISIS and non-ISIS tweets.
 
-The script walks a balanced 20K pro-ISIS + 20K non-ISIS tweet pool in batches
-of 100, calling GPT-4o (`gpt-4o-2024-08-06`) once per batch. Each call is sent
-the taxonomy produced by the previous batch and asked to merge the new tweets
-into it, so the taxonomy grows and stabilises as the run progresses. The exact
-prompt template is version-controlled at `prompts/04_taxonomy_generate.md`;
-this script is the canonical driver for that prompt. Every intermediate batch
+The script walks the input pool in fixed-size batches, calling GPT-4o
+(`gpt-4o-2024-08-06`) once per batch. Each call is sent the taxonomy
+produced by the previous batch and asked to merge the new tweets into it,
+so the taxonomy grows and stabilises as the run progresses. The prompt
+template is version-controlled at `prompts/04_taxonomy_generate.md`; this
+script is the canonical driver for that prompt. Every intermediate batch
 output is saved as a JSON file for inspection, and the final taxonomy is
 written to `final_taxonomy.json` under the output directory.
 

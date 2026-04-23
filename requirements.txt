@@ -11,3 +11,6 @@ pandas==2.0.3
 # For generate_taxonomy.py (LLM-based taxonomy induction)
 openai>=1.0
 tenacity>=8.0
+
+# For evaluate_counter_messages.py (Fleiss' kappa)
+statsmodels>=0.14

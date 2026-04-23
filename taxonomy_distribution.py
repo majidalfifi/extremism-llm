@@ -25,7 +25,7 @@ from pathlib import Path
 REPO = Path(__file__).resolve().parent
 DATA = REPO / "data/taxonomy-distribution"
 
-# Merges applied to both sides of the figure.
+# Merges applied on both the extremist and non-extremist sides.
 COMMON_MERGE = {
     # Religion: Prayers/Supplications + Islamic Teachings → one row
     "Religion and Spirituality -> Prayers and Supplications":
