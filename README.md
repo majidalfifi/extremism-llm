@@ -1,8 +1,8 @@
 # extremism-llm
 
-Code, prompts, and (where shareable) data accompanying the paper *"Extremism Detection and Counter-Messaging with Large Language Models"* (Alfifi, Kaghazgaran, Caverlee).
+Code, prompts, and (where shareable) data accompanying the paper *"Extremism Detection and Counter-Messaging with Large Language Models"* (Alfifi, Kaghazgaran, Caverlee), **accepted at ASONAM 2026** (Research Track, short paper; proceedings by Springer).
 
-This repository reproduces the LLM prompting experiments and the distilled classifier evaluation reported in the paper. Notably, we release the **full text of all 2,000 evaluation tweets** (1,000 pro-ISIS + 1,000 negatives) used in the paper's Table 2, alongside the per-tweet LLM classifications and reasoning. The iteratively induced taxonomy, the LLM- and human-authored counter-messages, and all LLM prompts used in the paper are also provided.
+This repository reproduces the LLM prompting experiments and the distilled classifier evaluation reported in the paper. Notably, we release the **full text of all 2,000 evaluation tweets** (1,000 pro-ISIS + 1,000 negatives) used in the paper's Table 1, alongside the per-tweet LLM classifications and reasoning. The iteratively induced taxonomy, the LLM- and human-authored counter-messages, and all LLM prompts used in the paper are also provided.
 
 The larger 500K LLM-labeled corpus used for MARBERT training is **not** redistributed here (Twitter/X Terms of Service).
 
@@ -60,9 +60,9 @@ extremism-llm/
 ├── data/
 │   ├── classification/             # The 2,000 evaluation tweets (full text) +
 │   │                               # per-tweet LLM predictions and reasoning for
-│   │                               # each prompting strategy and each model (Table 2)
+│   │                               # each prompting strategy and each model (Table 1)
 │   ├── taxonomy-distribution/      # Per-tweet taxonomy labels assigned by the
-│   │                               # LLM on the 2,000-tweet eval set (Table 1)
+│   │                               # LLM on the 2,000-tweet eval set (Sec 4.2)
 │   ├── taxonomy.json               # The final induced taxonomy (output of
 │   │                               # generate_taxonomy.py on the paper's run)
 │   ├── counter_message_candidates.json  # The 1,000 extremist tweets selected
@@ -76,10 +76,10 @@ extremism-llm/
 │                                   # Claude-3-Sonnet, Claude-3.5-Sonnet),
 │                                   # each run twice (seed 42 + seed 50);
 │                                   # drives the four LLM bars of Fig 1
-├── evaluate_classifiers.py         # Reproduces Table 2 (k-shot and taxonomy LLM
+├── evaluate_classifiers.py         # Reproduces Table 1 (k-shot and taxonomy LLM
 │                                   # accuracy, precision, recall, F1, and
 │                                   # inter-model kappa)
-├── train_marbert.py                # Reproduces any row of Table 3 (MARBERT binary
+├── train_marbert.py                # Reproduces any row of Table 2 (MARBERT binary
 │                                   # classifier at 1K / 10K / 100K / 250K / 500K
 │                                   # training-set sizes)
 ├── example_inference.py            # Minimal demo: load the published HF model
@@ -93,12 +93,12 @@ extremism-llm/
 │                                   # votes
 ├── evaluate_llm_judges.py          # Reproduces the four LLM-judge bars of Fig 1
 │                                   # from the raw per-pair verdict files
-└── taxonomy_distribution.py        # Reproduces Table 1 (taxonomy label
-                                    # distribution across extremist and
-                                    # non-extremist eval tweets)
+└── taxonomy_distribution.py        # Prints the taxonomy label distribution
+                                    # across extremist and non-extremist eval
+                                    # tweets (summarized in Sec 4.2 of the paper)
 ```
 
-## Reproducing Table 2 (LLM classification performance)
+## Reproducing Table 1 (LLM classification performance)
 
 ```
 python3 evaluate_classifiers.py
@@ -106,12 +106,12 @@ python3 evaluate_classifiers.py
 
 Reads per-tweet JSON outputs under `data/classification/` — each file contains the **original tweet text**, the LLM's classification, and the LLM's reasoning — for each prompting strategy (zero-/one-/few-shot and taxonomy-guided) and each model (GPT-4o, Claude 3.5 Sonnet), then reports accuracy, precision, recall, F1, and GPT-vs-Claude agreement (Cohen's kappa plus percent match) on the joint 2,000-tweet evaluation set. Because the full tweet text is included, researchers can inspect, filter, re-label, or re-run classifiers against the exact same set we used in the paper.
 
-## Reproducing Table 3 (MARBERT classifier at different training sizes)
+## Reproducing Table 2 (MARBERT classifier at different training sizes)
 
-`train_marbert.py` fine-tunes [UBC-NLP/MARBERT](https://huggingface.co/UBC-NLP/MARBERT) on the LLM-labeled corpus and prints a sklearn `classification_report` that reproduces the corresponding row of Table 3. Each run operates on a balanced 50/50 sub-sample of the 500K pool; the sub-sample is deterministic (`random_state=42`), and training uses the same hyperparameters as the paper (5 epochs, batch 64, lr 2e-6, max_seq 128, AdamW + linear warmup + linear decay, grad clip 1.0).
+`train_marbert.py` fine-tunes [UBC-NLP/MARBERT](https://huggingface.co/UBC-NLP/MARBERT) on the LLM-labeled corpus and prints a sklearn `classification_report` that reproduces the corresponding row of Table 2. Each run operates on a balanced 50/50 sub-sample of the 500K pool; the sub-sample is deterministic (`random_state=42`), and training uses the same hyperparameters as the paper (5 epochs, batch 64, lr 2e-6, max_seq 128, AdamW + linear warmup + linear decay, grad clip 1.0).
 
 ```
-# Reproduce one row of Table 3 (run once per size):
+# Reproduce one row of Table 2 (run once per size):
 python3 train_marbert.py --size 1000
 python3 train_marbert.py --size 10000
 python3 train_marbert.py --size 100000
@@ -201,13 +201,36 @@ claude-3.5-sonnet    N=2000   Scholar= 99.0%  LLM=  0.2%  Equal=  0.8%
 
 `data/counter_message_candidates.json` documents the selection step that precedes the evaluation: 20,000 extremist tweets were each scored 1–10 by GPT-4o for counter-messaging potential (see `prompts/06_content_scoring.md`), and the top-scoring 1,000 were kept. The file records the tweet text, the score, and the one-sentence LLM rationale for each of the 1,000 selected tweets. Its index aligns with the `post_id` field in `counter_message_evaluations.json`.
 
-## Reproducing Table 1 (taxonomy distribution)
+
+### Worked example (paper Table 3)
+
+Table 3 of the paper shows one extremist post with its human- and LLM-authored counter-messages in English translation. The Arabic originals are:
+
+**Original tweet:**
+
+> أهل الخلافة بليبا كان الله بعونكم أرسلوا عيونكم لإفريقيا ففرنسا الصليبيه الحاقده وإيطاليا يجهزون ويعدّون العده بإفريقيا.
+
+*"People of the Caliphate in Libya, may God help you. Send your spies to Africa, for the spiteful Crusader France and Italy are preparing and making preparations in Africa"*
+
+**Human (Islamic-studies student) counter-message:**
+
+> يحثنا ديننا على طاعة ولي أمر البلاد ويزداد الأمر أهمية إذا كان يخص مواضيع من اختصاص الحاكم مثل العلاقات مع الدول. يقول الله تعالي:(يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَأُولِي الْأَمْرِ مِنْكُمْ).
+
+*"Our religion urges us to obey the ruler of the country, and this becomes even more important when it concerns matters within the jurisdiction of the ruler, such as relations with other countries. Allah the Almighty says, 'O you who have believed, obey Allah and obey the Messenger and those in authority among you.'"*
+
+**LLM (GPT-4o) counter-message:**
+
+> الحوار والدبلوماسية هما السبيل الأمثل لحل النزاعات. دعونا نركز على بناء مستقبل أفضل لليبيا.
+
+*"Dialogue and diplomacy are the best ways to resolve conflicts. Let us focus on building a better future for Libya"*
+
+## Reproducing the taxonomy label distribution (Sec 4.2)
 
 ```
 python3 taxonomy_distribution.py
 ```
 
-Reads the LLM-assigned taxonomy labels under `data/taxonomy-distribution/` (1,000 extremist + 1,000 non-extremist eval tweets, one classification JSON per tweet) and prints the two-panel label distribution shown in Table 1.
+Reads the LLM-assigned taxonomy labels under `data/taxonomy-distribution/` (1,000 extremist + 1,000 non-extremist eval tweets, one classification JSON per tweet) and prints the two-panel label distribution. In the final (short) version of the paper this table is summarized in Sec 4.2; the full distribution is released only here.
 
 ## What is NOT in this repository
 
@@ -217,7 +240,19 @@ Reads the LLM-assigned taxonomy labels under `data/taxonomy-distribution/` (1,00
 
 ## Citation
 
-If you use these prompts, predictions, or the taxonomy in your own work, please cite the paper. BibTeX will be added upon acceptance.
+If you use these prompts, predictions, or the taxonomy in your own work, please cite the paper (page/volume details will be finalized when the Springer proceedings appear):
+
+```bibtex
+@inproceedings{alfifi2026extremism,
+  author    = {Alfifi, Majid and Kaghazgaran, Parisa and Caverlee, James},
+  title     = {Extremism Detection and Counter-Messaging with Large Language Models},
+  booktitle = {Proceedings of the 18th International Conference on Advances in
+               Social Networks Analysis and Mining (ASONAM 2026)},
+  publisher = {Springer},
+  year      = {2026},
+  note      = {To appear}
+}
+```
 
 ## Contact
 
@@ -535,6 +570,6 @@ Snapshot of the system used to collect evaluation of human-vs-LLM counter-messag
 
 ### Figure B.2 — Taxonomy Evolution (illustrative)
 
-Illustrative heatmap from a pre-stabilization run showing how the iterative taxonomy-induction procedure behaves across batches: labels are merged (e.g., Sports Commentary), removed (e.g., Uncategorized), or introduced mid-run (e.g., "Inappropriate Content"). This figure is included as a visualization of the *process*, not as the exact evolution trace of the taxonomy shipped in this repo — the final stabilized taxonomy used for the paper's Section 3.2 and Figure 2 analyses is committed at [`data/taxonomy.json`](data/taxonomy.json).
+Illustrative heatmap from a pre-stabilization run showing how the iterative taxonomy-induction procedure behaves across batches: labels are merged (e.g., Sports Commentary), removed (e.g., Uncategorized), or introduced mid-run (e.g., "Inappropriate Content"). This figure is included as a visualization of the *process*, not as the exact evolution trace of the taxonomy shipped in this repo — the final stabilized taxonomy used for the paper's Section 4.2 analyses is committed at [`data/taxonomy.json`](data/taxonomy.json).
 
 ![Heatmap showing which taxonomy categories are present at each iteration](screenshots/taxonomy_heatmap.png)
